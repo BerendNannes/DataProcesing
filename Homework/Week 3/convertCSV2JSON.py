@@ -7,9 +7,13 @@ json_file = open('BevolkingNL.json', 'w')
 rows = csv.reader(csv_file, delimiter=";")
 next(rows, None)
 
+json_file.write('[\n')
+
 for i in rows:
 	json_file.write(json.dumps({'Leeftijd': i[0] , 'Aantal': i[1]}, sort_keys=True, indent=4, separators=(',', ': ')))
-	json_file.write('\n')
+	json_file.write(',\n')
+	
+json_file.write(']')
 	
 csv_file.close()
 json_file.close()
