@@ -8,10 +8,10 @@ Homework:
     </tr>
 	    <tr>
         <td>Week 2: JavaScript line graph</td>
-		<td><a href="Homework/Week 2/index.html">index.html</a></td>
+		<td><a href="https://rawgit.com/BerendNannes/DataProcessing/master/Homework/Week%202/index.html">index.html</a></td>
     </tr>
 	    <tr>
         <td>Week 3: D3 Barchart</td>
-		<td><a href="Homework/Week 3/barchart.html">barchart.html</a></td>
+		<td><a href="https://rawgit.com/BerendNannes/DataProcessing/master/Homework/Week%203/barchart.html">barchart.html</a></td>
     </tr>
 </table>
