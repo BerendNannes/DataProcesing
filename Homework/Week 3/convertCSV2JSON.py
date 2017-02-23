@@ -1,3 +1,9 @@
+#
+# convertCSV2JSON.py
+# Berend Nannes
+# Data Processing
+#
+
 import csv
 import json
 

@@ -1,15 +1,25 @@
-.chart rect {
-  fill: steelblue;
+/* 
+barchart.css
+Berend Nannes
+Data Processing
+*/
+
+.title {
+	position: absolute;
+	font: bold 25px consolas;
+	top: 15px;
 }
 
-.bar text {
-  fill: black;
-  font: 10px sans-serif;
-  text-anchor: middle;
+.bar {
+  fill: rgba(60, 193, 173, 0.8);
+}
+
+.bar:hover {
+  fill: rgba(60, 193, 173, 1);
 }
 
 .axis text {
-  font: 12px sans-serif;
+  font: 12px consolas;
 }
 
 .axis path,
@@ -17,4 +27,12 @@
   fill: none;
   stroke: #000;
   shape-rendering: crispEdges;
+}
+
+.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 40px;					
+    height: 14px;									
+    font: 11px consolas;								
 }
