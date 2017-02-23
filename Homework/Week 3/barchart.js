@@ -41,7 +41,7 @@ var div = d3.select("body").append("div")
     .attr("class", "tooltip")				
     .style("opacity", 0);
 
-d3.json("http://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Week%203/BevolkingNL.json", function(data) {
+d3.json("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Week%203/BevolkingNL.json", function(data) {
 	
 	// convert data to numbers
 	data.forEach(function(d){
