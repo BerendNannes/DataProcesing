@@ -1,622 +1,622 @@
-[{
-  ABW: {
+[
+  {"ABW": {
      "index":42.27
-  },
-  ADO: {
+  }},
+  {"ADO": {
      "index":
-  },
-  AFG: {
+  }},
+  {"AFG": {
      "index":32.92
-  },
-  AGO: {
+  }},
+  {"AGO": {
      "index":40.99
-  },
-  ALB: {
+  }},
+  {"ALB": {
      "index":56.68
-  },
-  ANT: {
+  }},
+  {"ANT": {
      "index":
-  },
-  ARE: {
+  }},
+  {"ARE": {
      "index":75.92
-  },
-  ARG: {
+  }},
+  {"ARG": {
      "index":57.11
-  },
-  ARM: {
+  }},
+  {"ARM": {
      "index":59.62
-  },
-  ASM: {
+  }},
+  {"ASM": {
      "index":
-  },
-  ATG: {
+  }},
+  {"ATG": {
      "index":49.65
-  },
-  AUS: {
+  }},
+  {"AUS": {
      "index":81.93
-  },
-  AUT: {
+  }},
+  {"AUT": {
      "index":89.83
-  },
-  AZE: {
+  }},
+  {"AZE": {
      "index":57.53
-  },
-  BDI: {
+  }},
+  {"BDI": {
      "index":31.87
-  },
-  BEL: {
+  }},
+  {"BEL": {
      "index":90.51
-  },
-  BEN: {
+  }},
+  {"BEN": {
      "index":43.37
-  },
-  BFA: {
+  }},
+  {"BFA": {
      "index":46.2
-  },
-  BGD: {
+  }},
+  {"BGD": {
      "index":42.47
-  },
-  BGR: {
+  }},
+  {"BGR": {
      "index":77.16
-  },
-  BHR: {
+  }},
+  {"BHR": {
      "index":69.99
-  },
-  BHS: {
+  }},
+  {"BHS": {
      "index":54.05
-  },
-  BIH: {
+  }},
+  {"BIH": {
      "index":66.31
-  },
-  BLR: {
+  }},
+  {"BLR": {
      "index":61.34
-  },
-  BLZ: {
+  }},
+  {"BLZ": {
      "index":47.74
-  },
-  BMU: {
+  }},
+  {"BMU": {
      "index":35.83
-  },
-  BOL: {
+  }},
+  {"BOL": {
      "index":55.25
-  },
-  BRA: {
+  }},
+  {"BRA": {
      "index":60.5
-  },
-  BRB: {
+  }},
+  {"BRB": {
      "index":56.5
-  },
-  BRN: {
+  }},
+  {"BRN": {
      "index":67.38
-  },
-  BTN: {
+  }},
+  {"BTN": {
      "index":40.53
-  },
-  BWA: {
+  }},
+  {"BWA": {
      "index":45.52
-  },
-  CAF: {
+  }},
+  {"CAF": {
      "index":35.9
-  },
-  CAN: {
+  }},
+  {"CAN": {
      "index":85.67
-  },
-  CHE: {
+  }},
+  {"CHE": {
      "index":87.01
-  },
-  CHI: {
+  }},
+  {"CHI": {
      "index":
-  },
-  CHL: {
+  }},
+  {"CHL": {
      "index":71.18
-  },
-  CHN: {
+  }},
+  {"CHN": {
      "index":60.73
-  },
-  CIV: {
+  }},
+  {"CIV": {
      "index":48.76
-  },
-  CMR: {
+  }},
+  {"CMR": {
      "index":42.06
-  },
-  COG: {
+  }},
+  {"COG": {
      "index":45.67
-  },
-  COL: {
+  }},
+  {"COL": {
      "index":60.27
-  },
-  COM: {
+  }},
+  {"COM": {
      "index":30.71
-  },
-  CPV: {
+  }},
+  {"CPV": {
      "index":44.48
-  },
-  CRI: {
+  }},
+  {"CRI": {
      "index":62.19
-  },
-  CUB: {
+  }},
+  {"CUB": {
      "index":47.09
-  },
-  CYM: {
+  }},
+  {"CYM": {
      "index":32.18
-  },
-  CYP: {
+  }},
+  {"CYP": {
      "index":84.07
-  },
-  CZE: {
+  }},
+  {"CZE": {
      "index":83.6
-  },
-  DEU: {
+  }},
+  {"DEU": {
      "index":78.24
-  },
-  DJI: {
+  }},
+  {"DJI": {
      "index":49.2
-  },
-  DMA: {
+  }},
+  {"DMA": {
      "index":40.25
-  },
-  DNK: {
+  }},
+  {"DNK": {
      "index":86.44
-  },
-  DOM: {
+  }},
+  {"DOM": {
      "index":66.81
-  },
-  DZA: {
+  }},
+  {"DZA": {
      "index":50.06
-  },
-  ECU: {
+  }},
+  {"ECU": {
      "index":54.66
-  },
-  EGY: {
+  }},
+  {"EGY": {
      "index":62.71
-  },
-  ERI: {
+  }},
+  {"ERI": {
      "index":26.47
-  },
-  ESP: {
+  }},
+  {"ESP": {
      "index":83.73
-  },
-  EST: {
+  }},
+  {"EST": {
      "index":78.46
-  },
-  ETH: {
+  }},
+  {"ETH": {
      "index":38.32
-  },
-  FIN: {
+  }},
+  {"FIN": {
      "index":85.47
-  },
-  FJI: {
+  }},
+  {"FJI": {
      "index":57.33
-  },
-  FRA: {
+  }},
+  {"FRA": {
      "index":82.61
-  },
-  FRO: {
+  }},
+  {"FRO": {
      "index":34.59
-  },
-  FSM: {
+  }},
+  {"FSM": {
      "index":27.99
-  },
-  GAB: {
+  }},
+  {"GAB": {
      "index":50.88
-  },
-  GBR: {
+  }},
+  {"GBR": {
      "index":81.97
-  },
-  GEO: {
+  }},
+  {"GEO": {
      "index":64.27
-  },
-  GHA: {
+  }},
+  {"GHA": {
      "index":51.23
-  },
-  GIN: {
+  }},
+  {"GIN": {
      "index":45.19
-  },
-  GMB: {
+  }},
+  {"GMB": {
      "index":50.68
-  },
-  GNB: {
+  }},
+  {"GNB": {
      "index":38.62
-  },
-  GNQ: {
+  }},
+  {"GNQ": {
      "index":27.22
-  },
-  GRC: {
+  }},
+  {"GRC": {
      "index":80.4
-  },
-  GRD: {
+  }},
+  {"GRD": {
      "index":53.21
-  },
-  GRL: {
+  }},
+  {"GRL": {
      "index":
-  },
-  GTM: {
+  }},
+  {"GTM": {
      "index":59.28
-  },
-  GUM: {
+  }},
+  {"GUM": {
      "index":
-  },
-  GUY: {
+  }},
+  {"GUY": {
      "index":47.51
-  },
-  HND: {
+  }},
+  {"HND": {
      "index":59.99
-  },
-  HRV: {
+  }},
+  {"HRV": {
      "index":75.59
-  },
-  HTI: {
+  }},
+  {"HTI": {
      "index":41.21
-  },
-  HUN: {
+  }},
+  {"HUN": {
      "index":85.78
-  },
-  IDN: {
+  }},
+  {"IDN": {
      "index":57.75
-  },
-  IMY: {
+  }},
+  {"IMY": {
      "index":
-  },
-  IND: {
+  }},
+  {"IND": {
      "index":51.26
-  },
-  IRL: {
+  }},
+  {"IRL": {
      "index":91.64
-  },
-  IRN: {
+  }},
+  {"IRN": {
      "index":41.65
-  },
-  IRQ: {
+  }},
+  {"IRQ": {
      "index":40.7
-  },
-  ISL: {
+  }},
+  {"ISL": {
      "index":67.5
-  },
-  ISR: {
+  }},
+  {"ISR": {
      "index":72.81
-  },
-  ITA: {
+  }},
+  {"ITA": {
      "index":79.59
-  },
-  JAM: {
+  }},
+  {"JAM": {
      "index":60.11
-  },
-  JOR: {
+  }},
+  {"JOR": {
      "index":68.31
-  },
-  JPN: {
+  }},
+  {"JPN": {
      "index":67.86
-  },
-  KAZ: {
+  }},
+  {"KAZ": {
      "index":55.1
-  },
-  KEN: {
+  }},
+  {"KEN": {
      "index":45.51
-  },
-  KGZ: {
+  }},
+  {"KGZ": {
      "index":55.69
-  },
-  KHM: {
+  }},
+  {"KHM": {
      "index":50.32
-  },
-  KIR: {
+  }},
+  {"KIR": {
      "index":37.27
-  },
-  KNA: {
+  }},
+  {"KNA": {
      "index":38.66
-  },
-  KOR: {
+  }},
+  {"KOR": {
      "index":65.42
-  },
-  KWT: {
+  }},
+  {"KWT": {
      "index":67.69
-  },
-  LAO: {
+  }},
+  {"LAO": {
      "index":30.38
-  },
-  LBN: {
+  }},
+  {"LBN": {
      "index":65.18
-  },
-  LBR: {
+  }},
+  {"LBR": {
      "index":39.39
-  },
-  LBY: {
+  }},
+  {"LBY": {
      "index":47.98
-  },
-  LCA: {
+  }},
+  {"LCA": {
      "index":46.02
-  },
-  LIE: {
+  }},
+  {"LIE": {
      "index":
-  },
-  LKA: {
+  }},
+  {"LKA": {
      "index":51.75
-  },
-  LSO: {
+  }},
+  {"LSO": {
      "index":43.74
-  },
-  LTU: {
+  }},
+  {"LTU": {
      "index":77.26
-  },
-  LUX: {
+  }},
+  {"LUX": {
      "index":83.55
-  },
-  LVA: {
+  }},
+  {"LVA": {
      "index":70.97
-  },
-  MAC: {
+  }},
+  {"MAC": {
      "index":41.35
-  },
-  MAR: {
+  }},
+  {"MAR": {
      "index":66.06
-  },
-  MCO: {
+  }},
+  {"MCO": {
      "index":
-  },
-  MDA: {
+  }},
+  {"MDA": {
      "index":63.14
-  },
-  MDG: {
+  }},
+  {"MDG": {
      "index":42.47
-  },
-  MDV: {
+  }},
+  {"MDV": {
      "index":38.57
-  },
-  MEX: {
+  }},
+  {"MEX": {
      "index":61.65
-  },
-  MHL: {
+  }},
+  {"MHL": {
      "index":
-  },
-  MKD: {
+  }},
+  {"MKD": {
      "index":55.16
-  },
-  MLI: {
+  }},
+  {"MLI": {
      "index":45.23
-  },
-  MLT: {
+  }},
+  {"MLT": {
      "index":75.04
-  },
-  MMR: {
+  }},
+  {"MMR": {
      "index":34.42
-  },
-  MNE: {
+  }},
+  {"MNE": {
      "index":65.57
-  },
-  MNG: {
+  }},
+  {"MNG": {
      "index":56.43
-  },
-  MNP: {
+  }},
+  {"MNP": {
      "index":
-  },
-  MOZ: {
+  }},
+  {"MOZ": {
      "index":48.36
-  },
-  MRT: {
+  }},
+  {"MRT": {
      "index":48.48
-  },
-  MUS: {
+  }},
+  {"MUS": {
      "index":65.88
-  },
-  MWI: {
+  }},
+  {"MWI": {
      "index":45.55
-  },
-  MYS: {
+  }},
+  {"MYS": {
      "index":79.14
-  },
-  NAM: {
+  }},
+  {"NAM": {
      "index":53.78
-  },
-  NCL: {
+  }},
+  {"NCL": {
      "index":41.65
-  },
-  NER: {
+  }},
+  {"NER": {
      "index":45.28
-  },
-  NGA: {
+  }},
+  {"NGA": {
      "index":52.32
-  },
-  NIC: {
+  }},
+  {"NIC": {
      "index":53.88
-  },
-  NLD: {
+  }},
+  {"NLD": {
      "index":91.7
-  },
-  NOR: {
+  }},
+  {"NOR": {
      "index":84.24
-  },
-  NPL: {
+  }},
+  {"NPL": {
      "index":40.15
-  },
-  NZL: {
+  }},
+  {"NZL": {
      "index":78.15
-  },
-  OMN: {
+  }},
+  {"OMN": {
      "index":61.91
-  },
-  PAK: {
+  }},
+  {"PAK": {
      "index":51.91
-  },
-  PAN: {
+  }},
+  {"PAN": {
      "index":66.87
-  },
-  PER: {
+  }},
+  {"PER": {
      "index":65.2
-  },
-  PHL: {
+  }},
+  {"PHL": {
      "index":57.86
-  },
-  PLW: {
+  }},
+  {"PLW": {
      "index":46.29
-  },
-  PNG: {
+  }},
+  {"PNG": {
      "index":49.66
-  },
-  POL: {
+  }},
+  {"POL": {
      "index":79.9
-  },
-  PRI: {
+  }},
+  {"PRI": {
      "index":53.49
-  },
-  PRK: {
+  }},
+  {"PRK": {
      "index":
-  },
-  PRT: {
+  }},
+  {"PRT": {
      "index":85.08
-  },
-  PRY: {
+  }},
+  {"PRY": {
      "index":60.69
-  },
-  PYF: {
+  }},
+  {"PYF": {
      "index":32.51
-  },
-  QAT: {
+  }},
+  {"QAT": {
      "index":77.04
-  },
-  ROM: {
+  }},
+  {"ROM": {
      "index":75.09
-  },
-  RUS: {
+  }},
+  {"RUS": {
      "index":69.4
-  },
-  RWA: {
+  }},
+  {"RWA": {
      "index":44.66
-  },
-  SAU: {
+  }},
+  {"SAU": {
      "index":67.35
-  },
-  SDN: {
+  }},
+  {"SDN": {
      "index":34.13
-  },
-  SEN: {
+  }},
+  {"SEN": {
      "index":53.61
-  },
-  SGP: {
+  }},
+  {"SGP": {
      "index":86.93
-  },
-  SLB: {
+  }},
+  {"SLB": {
      "index":25.1
-  },
-  SLE: {
+  }},
+  {"SLE": {
      "index":41.77
-  },
-  SLV: {
+  }},
+  {"SLV": {
      "index":61.72
-  },
-  SMR: {
+  }},
+  {"SMR": {
      "index":
-  },
-  SOM: {
+  }},
+  {"SOM": {
      "index":
-  },
-  SRB: {
+  }},
+  {"SRB": {
      "index":68.62
-  },
-  STP: {
+  }},
+  {"STP": {
      "index":32.25
-  },
-  SUR: {
+  }},
+  {"SUR": {
      "index":49.67
-  },
-  SVK: {
+  }},
+  {"SVK": {
      "index":83.62
-  },
-  SVN: {
+  }},
+  {"SVN": {
      "index":76.24
-  },
-  SWE: {
+  }},
+  {"SWE": {
      "index":85.92
-  },
-  SWZ: {
+  }},
+  {"SWZ": {
      "index":51.2
-  },
-  SYC: {
+  }},
+  {"SYC": {
      "index":58.24
-  },
-  SYR: {
+  }},
+  {"SYR": {
      "index":48.29
-  },
-  TCD: {
+  }},
+  {"TCD": {
      "index":38.42
-  },
-  TGO: {
+  }},
+  {"TGO": {
      "index":51.46
-  },
-  THA: {
+  }},
+  {"THA": {
      "index":70.45
-  },
-  TJK: {
+  }},
+  {"TJK": {
      "index":44.68
-  },
-  TKM: {
+  }},
+  {"TKM": {
      "index":37.31
-  },
-  TMP: {
+  }},
+  {"TMP": {
      "index":44.83
-  },
-  TON: {
+  }},
+  {"TON": {
      "index":31.12
-  },
-  TTO: {
+  }},
+  {"TTO": {
      "index":62.62
-  },
-  TUN: {
+  }},
+  {"TUN": {
      "index":59.1
-  },
-  TUR: {
+  }},
+  {"TUR": {
      "index":69.95
-  },
-  TZA: {
+  }},
+  {"TZA": {
      "index":36.08
-  },
-  UGA: {
+  }},
+  {"UGA": {
      "index":46.02
-  },
-  UKR: {
+  }},
+  {"UKR": {
      "index":70.71
-  },
-  URY: {
+  }},
+  {"URY": {
      "index":66.15
-  },
-  USA: {
+  }},
+  {"USA": {
      "index":75.71
-  },
-  UZB: {
+  }},
+  {"UZB": {
      "index":41.91
-  },
-  VCT: {
+  }},
+  {"VCT": {
      "index":40.15
-  },
-  VEN: {
+  }},
+  {"VEN": {
      "index":52.38
-  },
-  VIR: {
+  }},
+  {"VIR": {
      "index":
-  },
-  VNM: {
+  }},
+  {"VNM": {
      "index":49.91
-  },
-  VUT: {
+  }},
+  {"VUT": {
      "index":41.6
-  },
-  WBG: {
+  }},
+  {"WBG": {
      "index":33.26
-  },
-  WSM: {
+  }},
+  {"WSM": {
      "index":50.96
-  },
-  YEM: {
+  }},
+  {"YEM": {
      "index":45.12
-  },
-  ZAF: {
+  }},
+  {"ZAF": {
      "index":65.26
-  },
-  ZAR: {
+  }},
+  {"ZAR": {
      "index":41.12
-  },
-  ZMB: {
+  }},
+  {"ZMB": {
      "index":51.1
-  },
-  ZWE: {
+  }},
+  {"ZWE": {
      "index":48.51
   }}]
