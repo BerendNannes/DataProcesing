@@ -3,7 +3,7 @@
 d3.json("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Week%204/globalization.json", function(globalizationData) {
 	// json request
 	
-	stuff = globalizationData[0].globalizationIndex;
+	console.log(globalizationData);
 	
 	var map = new Datamap({
 		element: document.getElementById('container'),
@@ -20,6 +20,6 @@ d3.json("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Ho
 		fills: {
 			defaultFill: 'white'
 		},
-		data: stuff
+		//data: stuff
 	});
 });
