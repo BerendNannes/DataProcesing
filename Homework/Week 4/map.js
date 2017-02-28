@@ -11,7 +11,7 @@ d3.json("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Ho
 			popupTemplate: function(geo, data) {
 				console.log(data.index);
 				return ['<div class="hoverinfo">',
-				geo.properties.name, data.index,
+				geo.properties.name,
 				'</div>'].join('');
 				},
 			borderColor: 'black',
@@ -20,6 +20,5 @@ d3.json("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Ho
 			fills: {
 			defaultFill: 'white'
 		},
-		data: stuff
 	});
 });
