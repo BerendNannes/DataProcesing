@@ -1,4 +1,5 @@
 
+
 d3.json("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Week%204/globalization.json", function(globalizationData) {
 	// json request
 	
