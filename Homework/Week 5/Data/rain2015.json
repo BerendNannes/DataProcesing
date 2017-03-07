@@ -1,5 +1,13 @@
 [  
    {  
+      "Date":20150101,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":16,
+         "Maastricht":0
+      }
+   },
+   {  
       "Date":20150102,
       "Rainfall":{  
          "De Bilt":43,

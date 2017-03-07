@@ -14,7 +14,7 @@
 
 </style>
 <svg width="960" height="500"></svg>
-<script src="//d3js.org/d3.v4.min.js"></script>
+<script src="http://d3js.org/d3.v4.min.js"></script>
 <script>
 
 var svg = d3.select("svg"),
@@ -34,7 +34,7 @@ var line = d3.line()
     .x(function(d) { return x(d.date); })
     .y(function(d) { return y(d.temperature); });
 
-d3.tsv("data.tsv", type, function(error, data) {
+d3.tsv("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Test/data.tsv", type, function(error, data) {
   if (error) throw error;
 
   var cities = data.columns.slice(1).map(function(id) {
@@ -45,6 +45,8 @@ d3.tsv("data.tsv", type, function(error, data) {
       })
     };
   });
+  
+  console.log(cities);
 
   x.domain(d3.extent(data, function(d) { return d.date; }));
 
