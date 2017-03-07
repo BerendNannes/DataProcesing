@@ -1,0 +1,2914 @@
+[  
+   {  
+      "Date":20150102,
+      "Rainfall":{  
+         "De Bilt":43,
+         "Leeuwarden":33,
+         "Maastricht":69
+      }
+   },
+   {  
+      "Date":20150103,
+      "Rainfall":{  
+         "De Bilt":15,
+         "Leeuwarden":15,
+         "Maastricht":91
+      }
+   },
+   {  
+      "Date":20150104,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150105,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150106,
+      "Rainfall":{  
+         "De Bilt":18,
+         "Leeuwarden":6,
+         "Maastricht":6
+      }
+   },
+   {  
+      "Date":20150107,
+      "Rainfall":{  
+         "De Bilt":12,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150108,
+      "Rainfall":{  
+         "De Bilt":176,
+         "Leeuwarden":99,
+         "Maastricht":233
+      }
+   },
+   {  
+      "Date":20150109,
+      "Rainfall":{  
+         "De Bilt":85,
+         "Leeuwarden":38,
+         "Maastricht":109
+      }
+   },
+   {  
+      "Date":20150110,
+      "Rainfall":{  
+         "De Bilt":34,
+         "Leeuwarden":21,
+         "Maastricht":63
+      }
+   },
+   {  
+      "Date":20150111,
+      "Rainfall":{  
+         "De Bilt":14,
+         "Leeuwarden":0,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150112,
+      "Rainfall":{  
+         "De Bilt":19,
+         "Leeuwarden":49,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150113,
+      "Rainfall":{  
+         "De Bilt":140,
+         "Leeuwarden":169,
+         "Maastricht":60
+      }
+   },
+   {  
+      "Date":20150114,
+      "Rainfall":{  
+         "De Bilt":19,
+         "Leeuwarden":29,
+         "Maastricht":57
+      }
+   },
+   {  
+      "Date":20150115,
+      "Rainfall":{  
+         "De Bilt":80,
+         "Leeuwarden":60,
+         "Maastricht":16
+      }
+   },
+   {  
+      "Date":20150116,
+      "Rainfall":{  
+         "De Bilt":17,
+         "Leeuwarden":30,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150117,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":27,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150118,
+      "Rainfall":{  
+         "De Bilt":47,
+         "Leeuwarden":82,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150119,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":4,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150120,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":2,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150121,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150122,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150123,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150124,
+      "Rainfall":{  
+         "De Bilt":86,
+         "Leeuwarden":75,
+         "Maastricht":69
+      }
+   },
+   {  
+      "Date":20150125,
+      "Rainfall":{  
+         "De Bilt":3,
+         "Leeuwarden":2,
+         "Maastricht":22
+      }
+   },
+   {  
+      "Date":20150126,
+      "Rainfall":{  
+         "De Bilt":31,
+         "Leeuwarden":24,
+         "Maastricht":39
+      }
+   },
+   {  
+      "Date":20150127,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":3,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150128,
+      "Rainfall":{  
+         "De Bilt":82,
+         "Leeuwarden":90,
+         "Maastricht":45
+      }
+   },
+   {  
+      "Date":20150129,
+      "Rainfall":{  
+         "De Bilt":150,
+         "Leeuwarden":66,
+         "Maastricht":15
+      }
+   },
+   {  
+      "Date":20150130,
+      "Rainfall":{  
+         "De Bilt":83,
+         "Leeuwarden":14,
+         "Maastricht":35
+      }
+   },
+   {  
+      "Date":20150131,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":3,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150201,
+      "Rainfall":{  
+         "De Bilt":21,
+         "Leeuwarden":1,
+         "Maastricht":43
+      }
+   },
+   {  
+      "Date":20150202,
+      "Rainfall":{  
+         "De Bilt":55,
+         "Leeuwarden":43,
+         "Maastricht":11
+      }
+   },
+   {  
+      "Date":20150203,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":9,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150204,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":20,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150205,
+      "Rainfall":{  
+         "De Bilt":9,
+         "Leeuwarden":9,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150206,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150207,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150208,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150209,
+      "Rainfall":{  
+         "De Bilt":3,
+         "Leeuwarden":14,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150210,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":6,
+         "Maastricht":4
+      }
+   },
+   {  
+      "Date":20150211,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150212,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150213,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150214,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150215,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150216,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150217,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":1,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150218,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150219,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":8,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150220,
+      "Rainfall":{  
+         "De Bilt":200,
+         "Leeuwarden":109,
+         "Maastricht":36
+      }
+   },
+   {  
+      "Date":20150221,
+      "Rainfall":{  
+         "De Bilt":94,
+         "Leeuwarden":69,
+         "Maastricht":72
+      }
+   },
+   {  
+      "Date":20150222,
+      "Rainfall":{  
+         "De Bilt":22,
+         "Leeuwarden":24,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150223,
+      "Rainfall":{  
+         "De Bilt":28,
+         "Leeuwarden":49,
+         "Maastricht":93
+      }
+   },
+   {  
+      "Date":20150224,
+      "Rainfall":{  
+         "De Bilt":73,
+         "Leeuwarden":26,
+         "Maastricht":40
+      }
+   },
+   {  
+      "Date":20150225,
+      "Rainfall":{  
+         "De Bilt":28,
+         "Leeuwarden":72,
+         "Maastricht":6
+      }
+   },
+   {  
+      "Date":20150226,
+      "Rainfall":{  
+         "De Bilt":70,
+         "Leeuwarden":59,
+         "Maastricht":31
+      }
+   },
+   {  
+      "Date":20150227,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":41
+      }
+   },
+   {  
+      "Date":20150228,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":1,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150301,
+      "Rainfall":{  
+         "De Bilt":51,
+         "Leeuwarden":32,
+         "Maastricht":25
+      }
+   },
+   {  
+      "Date":20150302,
+      "Rainfall":{  
+         "De Bilt":24,
+         "Leeuwarden":15,
+         "Maastricht":23
+      }
+   },
+   {  
+      "Date":20150303,
+      "Rainfall":{  
+         "De Bilt":20,
+         "Leeuwarden":58,
+         "Maastricht":49
+      }
+   },
+   {  
+      "Date":20150304,
+      "Rainfall":{  
+         "De Bilt":3,
+         "Leeuwarden":12,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150305,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150306,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150307,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150308,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":9,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150309,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":8,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150310,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":5,
+         "Maastricht":10
+      }
+   },
+   {  
+      "Date":20150311,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150312,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150313,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150314,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":0,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150315,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":0,
+         "Maastricht":5
+      }
+   },
+   {  
+      "Date":20150316,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150317,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150318,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150319,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150320,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":7,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150321,
+      "Rainfall":{  
+         "De Bilt":22,
+         "Leeuwarden":26,
+         "Maastricht":21
+      }
+   },
+   {  
+      "Date":20150322,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150323,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150324,
+      "Rainfall":{  
+         "De Bilt":3,
+         "Leeuwarden":2,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150325,
+      "Rainfall":{  
+         "De Bilt":72,
+         "Leeuwarden":68,
+         "Maastricht":57
+      }
+   },
+   {  
+      "Date":20150326,
+      "Rainfall":{  
+         "De Bilt":41,
+         "Leeuwarden":50,
+         "Maastricht":24
+      }
+   },
+   {  
+      "Date":20150327,
+      "Rainfall":{  
+         "De Bilt":17,
+         "Leeuwarden":14,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150328,
+      "Rainfall":{  
+         "De Bilt":33,
+         "Leeuwarden":25,
+         "Maastricht":31
+      }
+   },
+   {  
+      "Date":20150329,
+      "Rainfall":{  
+         "De Bilt":162,
+         "Leeuwarden":122,
+         "Maastricht":139
+      }
+   },
+   {  
+      "Date":20150330,
+      "Rainfall":{  
+         "De Bilt":54,
+         "Leeuwarden":39,
+         "Maastricht":5
+      }
+   },
+   {  
+      "Date":20150331,
+      "Rainfall":{  
+         "De Bilt":90,
+         "Leeuwarden":75,
+         "Maastricht":105
+      }
+   },
+   {  
+      "Date":20150401,
+      "Rainfall":{  
+         "De Bilt":40,
+         "Leeuwarden":50,
+         "Maastricht":8
+      }
+   },
+   {  
+      "Date":20150402,
+      "Rainfall":{  
+         "De Bilt":47,
+         "Leeuwarden":5,
+         "Maastricht":79
+      }
+   },
+   {  
+      "Date":20150403,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150404,
+      "Rainfall":{  
+         "De Bilt":19,
+         "Leeuwarden":0,
+         "Maastricht":30
+      }
+   },
+   {  
+      "Date":20150405,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150406,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":7,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150407,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150408,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150409,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150410,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150411,
+      "Rainfall":{  
+         "De Bilt":41,
+         "Leeuwarden":14,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150412,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":12,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150413,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150414,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150415,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150416,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150417,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150418,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150419,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150420,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150421,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150422,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150423,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150424,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":6
+      }
+   },
+   {  
+      "Date":20150425,
+      "Rainfall":{  
+         "De Bilt":37,
+         "Leeuwarden":10,
+         "Maastricht":74
+      }
+   },
+   {  
+      "Date":20150426,
+      "Rainfall":{  
+         "De Bilt":7,
+         "Leeuwarden":20,
+         "Maastricht":168
+      }
+   },
+   {  
+      "Date":20150427,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":17
+      }
+   },
+   {  
+      "Date":20150428,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":8,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150429,
+      "Rainfall":{  
+         "De Bilt":16,
+         "Leeuwarden":39,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150430,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":11,
+         "Maastricht":29
+      }
+   },
+   {  
+      "Date":20150501,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":2,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150502,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150503,
+      "Rainfall":{  
+         "De Bilt":16,
+         "Leeuwarden":42,
+         "Maastricht":59
+      }
+   },
+   {  
+      "Date":20150504,
+      "Rainfall":{  
+         "De Bilt":38,
+         "Leeuwarden":0,
+         "Maastricht":84
+      }
+   },
+   {  
+      "Date":20150505,
+      "Rainfall":{  
+         "De Bilt":92,
+         "Leeuwarden":72,
+         "Maastricht":14
+      }
+   },
+   {  
+      "Date":20150506,
+      "Rainfall":{  
+         "De Bilt":50,
+         "Leeuwarden":20,
+         "Maastricht":12
+      }
+   },
+   {  
+      "Date":20150507,
+      "Rainfall":{  
+         "De Bilt":11,
+         "Leeuwarden":60,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150508,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":1,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150509,
+      "Rainfall":{  
+         "De Bilt":39,
+         "Leeuwarden":14,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150510,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150511,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150512,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150513,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150514,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":11
+      }
+   },
+   {  
+      "Date":20150515,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150516,
+      "Rainfall":{  
+         "De Bilt":17,
+         "Leeuwarden":7,
+         "Maastricht":10
+      }
+   },
+   {  
+      "Date":20150517,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150518,
+      "Rainfall":{  
+         "De Bilt":21,
+         "Leeuwarden":35,
+         "Maastricht":18
+      }
+   },
+   {  
+      "Date":20150519,
+      "Rainfall":{  
+         "De Bilt":22,
+         "Leeuwarden":31,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150520,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":65,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150521,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150522,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150523,
+      "Rainfall":{  
+         "De Bilt":20,
+         "Leeuwarden":14,
+         "Maastricht":4
+      }
+   },
+   {  
+      "Date":20150524,
+      "Rainfall":{  
+         "De Bilt":8,
+         "Leeuwarden":1,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150525,
+      "Rainfall":{  
+         "De Bilt":5,
+         "Leeuwarden":0,
+         "Maastricht":13
+      }
+   },
+   {  
+      "Date":20150526,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":4,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150527,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150528,
+      "Rainfall":{  
+         "De Bilt":7,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150529,
+      "Rainfall":{  
+         "De Bilt":31,
+         "Leeuwarden":36,
+         "Maastricht":61
+      }
+   },
+   {  
+      "Date":20150530,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":60,
+         "Maastricht":7
+      }
+   },
+   {  
+      "Date":20150531,
+      "Rainfall":{  
+         "De Bilt":83,
+         "Leeuwarden":71,
+         "Maastricht":55
+      }
+   },
+   {  
+      "Date":20150601,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":3,
+         "Maastricht":10
+      }
+   },
+   {  
+      "Date":20150602,
+      "Rainfall":{  
+         "De Bilt":28,
+         "Leeuwarden":3,
+         "Maastricht":15
+      }
+   },
+   {  
+      "Date":20150603,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":3
+      }
+   },
+   {  
+      "Date":20150604,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150605,
+      "Rainfall":{  
+         "De Bilt":80,
+         "Leeuwarden":44,
+         "Maastricht":38
+      }
+   },
+   {  
+      "Date":20150606,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150607,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150608,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150609,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150610,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150611,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150612,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":22
+      }
+   },
+   {  
+      "Date":20150613,
+      "Rainfall":{  
+         "De Bilt":4,
+         "Leeuwarden":6,
+         "Maastricht":42
+      }
+   },
+   {  
+      "Date":20150614,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":1,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150615,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150616,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150617,
+      "Rainfall":{  
+         "De Bilt":26,
+         "Leeuwarden":45,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150618,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":0,
+         "Maastricht":56
+      }
+   },
+   {  
+      "Date":20150619,
+      "Rainfall":{  
+         "De Bilt":40,
+         "Leeuwarden":7,
+         "Maastricht":13
+      }
+   },
+   {  
+      "Date":20150620,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150621,
+      "Rainfall":{  
+         "De Bilt":101,
+         "Leeuwarden":9,
+         "Maastricht":9
+      }
+   },
+   {  
+      "Date":20150622,
+      "Rainfall":{  
+         "De Bilt":42,
+         "Leeuwarden":62,
+         "Maastricht":209
+      }
+   },
+   {  
+      "Date":20150623,
+      "Rainfall":{  
+         "De Bilt":5,
+         "Leeuwarden":39,
+         "Maastricht":6
+      }
+   },
+   {  
+      "Date":20150624,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150625,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150626,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":3
+      }
+   },
+   {  
+      "Date":20150627,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150628,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":30,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150629,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150630,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150701,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150702,
+      "Rainfall":{  
+         "De Bilt":69,
+         "Leeuwarden":64,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150703,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150704,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150705,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":256,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150706,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150707,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":4,
+         "Maastricht":12
+      }
+   },
+   {  
+      "Date":20150708,
+      "Rainfall":{  
+         "De Bilt":113,
+         "Leeuwarden":2,
+         "Maastricht":4
+      }
+   },
+   {  
+      "Date":20150709,
+      "Rainfall":{  
+         "De Bilt":18,
+         "Leeuwarden":3,
+         "Maastricht":22
+      }
+   },
+   {  
+      "Date":20150710,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150711,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150712,
+      "Rainfall":{  
+         "De Bilt":14,
+         "Leeuwarden":20,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150713,
+      "Rainfall":{  
+         "De Bilt":44,
+         "Leeuwarden":67,
+         "Maastricht":58
+      }
+   },
+   {  
+      "Date":20150714,
+      "Rainfall":{  
+         "De Bilt":29,
+         "Leeuwarden":6,
+         "Maastricht":19
+      }
+   },
+   {  
+      "Date":20150715,
+      "Rainfall":{  
+         "De Bilt":23,
+         "Leeuwarden":32,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150716,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150717,
+      "Rainfall":{  
+         "De Bilt":41,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150718,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150719,
+      "Rainfall":{  
+         "De Bilt":97,
+         "Leeuwarden":34,
+         "Maastricht":147
+      }
+   },
+   {  
+      "Date":20150720,
+      "Rainfall":{  
+         "De Bilt":5,
+         "Leeuwarden":0,
+         "Maastricht":46
+      }
+   },
+   {  
+      "Date":20150721,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":6,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150722,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150723,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150724,
+      "Rainfall":{  
+         "De Bilt":5,
+         "Leeuwarden":6,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150725,
+      "Rainfall":{  
+         "De Bilt":148,
+         "Leeuwarden":136,
+         "Maastricht":70
+      }
+   },
+   {  
+      "Date":20150726,
+      "Rainfall":{  
+         "De Bilt":35,
+         "Leeuwarden":39,
+         "Maastricht":34
+      }
+   },
+   {  
+      "Date":20150727,
+      "Rainfall":{  
+         "De Bilt":123,
+         "Leeuwarden":152,
+         "Maastricht":15
+      }
+   },
+   {  
+      "Date":20150728,
+      "Rainfall":{  
+         "De Bilt":100,
+         "Leeuwarden":163,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150729,
+      "Rainfall":{  
+         "De Bilt":41,
+         "Leeuwarden":103,
+         "Maastricht":7
+      }
+   },
+   {  
+      "Date":20150730,
+      "Rainfall":{  
+         "De Bilt":11,
+         "Leeuwarden":6,
+         "Maastricht":8
+      }
+   },
+   {  
+      "Date":20150731,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150801,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150802,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150803,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150804,
+      "Rainfall":{  
+         "De Bilt":19,
+         "Leeuwarden":74,
+         "Maastricht":39
+      }
+   },
+   {  
+      "Date":20150805,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150806,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150807,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":374
+      }
+   },
+   {  
+      "Date":20150808,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150809,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150810,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150811,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150812,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150813,
+      "Rainfall":{  
+         "De Bilt":111,
+         "Leeuwarden":0,
+         "Maastricht":15
+      }
+   },
+   {  
+      "Date":20150814,
+      "Rainfall":{  
+         "De Bilt":53,
+         "Leeuwarden":0,
+         "Maastricht":80
+      }
+   },
+   {  
+      "Date":20150815,
+      "Rainfall":{  
+         "De Bilt":85,
+         "Leeuwarden":0,
+         "Maastricht":328
+      }
+   },
+   {  
+      "Date":20150816,
+      "Rainfall":{  
+         "De Bilt":110,
+         "Leeuwarden":95,
+         "Maastricht":30
+      }
+   },
+   {  
+      "Date":20150817,
+      "Rainfall":{  
+         "De Bilt":136,
+         "Leeuwarden":195,
+         "Maastricht":28
+      }
+   },
+   {  
+      "Date":20150818,
+      "Rainfall":{  
+         "De Bilt":12,
+         "Leeuwarden":0,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150819,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150820,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150821,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150822,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150823,
+      "Rainfall":{  
+         "De Bilt":85,
+         "Leeuwarden":0,
+         "Maastricht":105
+      }
+   },
+   {  
+      "Date":20150824,
+      "Rainfall":{  
+         "De Bilt":24,
+         "Leeuwarden":126,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150825,
+      "Rainfall":{  
+         "De Bilt":116,
+         "Leeuwarden":54,
+         "Maastricht":22
+      }
+   },
+   {  
+      "Date":20150826,
+      "Rainfall":{  
+         "De Bilt":129,
+         "Leeuwarden":196,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150827,
+      "Rainfall":{  
+         "De Bilt":50,
+         "Leeuwarden":73,
+         "Maastricht":179
+      }
+   },
+   {  
+      "Date":20150828,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150829,
+      "Rainfall":{  
+         "De Bilt":38,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150830,
+      "Rainfall":{  
+         "De Bilt":101,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150831,
+      "Rainfall":{  
+         "De Bilt":73,
+         "Leeuwarden":393,
+         "Maastricht":26
+      }
+   },
+   {  
+      "Date":20150901,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":5,
+         "Maastricht":74
+      }
+   },
+   {  
+      "Date":20150902,
+      "Rainfall":{  
+         "De Bilt":3,
+         "Leeuwarden":0,
+         "Maastricht":4
+      }
+   },
+   {  
+      "Date":20150903,
+      "Rainfall":{  
+         "De Bilt":3,
+         "Leeuwarden":31,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150904,
+      "Rainfall":{  
+         "De Bilt":411,
+         "Leeuwarden":283,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20150905,
+      "Rainfall":{  
+         "De Bilt":35,
+         "Leeuwarden":51,
+         "Maastricht":46
+      }
+   },
+   {  
+      "Date":20150906,
+      "Rainfall":{  
+         "De Bilt":10,
+         "Leeuwarden":51,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150907,
+      "Rainfall":{  
+         "De Bilt":10,
+         "Leeuwarden":11,
+         "Maastricht":7
+      }
+   },
+   {  
+      "Date":20150908,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":8,
+         "Maastricht":10
+      }
+   },
+   {  
+      "Date":20150909,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150910,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150911,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150912,
+      "Rainfall":{  
+         "De Bilt":15,
+         "Leeuwarden":14,
+         "Maastricht":23
+      }
+   },
+   {  
+      "Date":20150913,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":10,
+         "Maastricht":13
+      }
+   },
+   {  
+      "Date":20150914,
+      "Rainfall":{  
+         "De Bilt":125,
+         "Leeuwarden":78,
+         "Maastricht":64
+      }
+   },
+   {  
+      "Date":20150915,
+      "Rainfall":{  
+         "De Bilt":10,
+         "Leeuwarden":47,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20150916,
+      "Rainfall":{  
+         "De Bilt":58,
+         "Leeuwarden":23,
+         "Maastricht":193
+      }
+   },
+   {  
+      "Date":20150917,
+      "Rainfall":{  
+         "De Bilt":91,
+         "Leeuwarden":35,
+         "Maastricht":23
+      }
+   },
+   {  
+      "Date":20150918,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150919,
+      "Rainfall":{  
+         "De Bilt":10,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150920,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150921,
+      "Rainfall":{  
+         "De Bilt":15,
+         "Leeuwarden":36,
+         "Maastricht":15
+      }
+   },
+   {  
+      "Date":20150922,
+      "Rainfall":{  
+         "De Bilt":13,
+         "Leeuwarden":55,
+         "Maastricht":109
+      }
+   },
+   {  
+      "Date":20150923,
+      "Rainfall":{  
+         "De Bilt":55,
+         "Leeuwarden":1,
+         "Maastricht":76
+      }
+   },
+   {  
+      "Date":20150924,
+      "Rainfall":{  
+         "De Bilt":21,
+         "Leeuwarden":47,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150925,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150926,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150927,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150928,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150929,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20150930,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151001,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151002,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151003,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151004,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151005,
+      "Rainfall":{  
+         "De Bilt":6,
+         "Leeuwarden":0,
+         "Maastricht":66
+      }
+   },
+   {  
+      "Date":20151006,
+      "Rainfall":{  
+         "De Bilt":63,
+         "Leeuwarden":32,
+         "Maastricht":18
+      }
+   },
+   {  
+      "Date":20151007,
+      "Rainfall":{  
+         "De Bilt":27,
+         "Leeuwarden":2,
+         "Maastricht":11
+      }
+   },
+   {  
+      "Date":20151008,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":35,
+         "Maastricht":68
+      }
+   },
+   {  
+      "Date":20151009,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":9,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151010,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151011,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151012,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151013,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":10,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151014,
+      "Rainfall":{  
+         "De Bilt":28,
+         "Leeuwarden":36,
+         "Maastricht":45
+      }
+   },
+   {  
+      "Date":20151015,
+      "Rainfall":{  
+         "De Bilt":74,
+         "Leeuwarden":66,
+         "Maastricht":66
+      }
+   },
+   {  
+      "Date":20151016,
+      "Rainfall":{  
+         "De Bilt":59,
+         "Leeuwarden":76,
+         "Maastricht":85
+      }
+   },
+   {  
+      "Date":20151017,
+      "Rainfall":{  
+         "De Bilt":14,
+         "Leeuwarden":4,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151018,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":30,
+         "Maastricht":11
+      }
+   },
+   {  
+      "Date":20151019,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":1,
+         "Maastricht":6
+      }
+   },
+   {  
+      "Date":20151020,
+      "Rainfall":{  
+         "De Bilt":7,
+         "Leeuwarden":25,
+         "Maastricht":2
+      }
+   },
+   {  
+      "Date":20151021,
+      "Rainfall":{  
+         "De Bilt":18,
+         "Leeuwarden":7,
+         "Maastricht":3
+      }
+   },
+   {  
+      "Date":20151022,
+      "Rainfall":{  
+         "De Bilt":22,
+         "Leeuwarden":13,
+         "Maastricht":17
+      }
+   },
+   {  
+      "Date":20151023,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151024,
+      "Rainfall":{  
+         "De Bilt":5,
+         "Leeuwarden":0,
+         "Maastricht":3
+      }
+   },
+   {  
+      "Date":20151025,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":0,
+         "Maastricht":9
+      }
+   },
+   {  
+      "Date":20151026,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151027,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151028,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":7
+      }
+   },
+   {  
+      "Date":20151029,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151030,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151031,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151101,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151102,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151103,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151104,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":7,
+         "Maastricht":6
+      }
+   },
+   {  
+      "Date":20151105,
+      "Rainfall":{  
+         "De Bilt":56,
+         "Leeuwarden":100,
+         "Maastricht":36
+      }
+   },
+   {  
+      "Date":20151106,
+      "Rainfall":{  
+         "De Bilt":32,
+         "Leeuwarden":77,
+         "Maastricht":5
+      }
+   },
+   {  
+      "Date":20151107,
+      "Rainfall":{  
+         "De Bilt":15,
+         "Leeuwarden":30,
+         "Maastricht":1
+      }
+   },
+   {  
+      "Date":20151108,
+      "Rainfall":{  
+         "De Bilt":4,
+         "Leeuwarden":36,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151109,
+      "Rainfall":{  
+         "De Bilt":54,
+         "Leeuwarden":33,
+         "Maastricht":7
+      }
+   },
+   {  
+      "Date":20151110,
+      "Rainfall":{  
+         "De Bilt":44,
+         "Leeuwarden":8,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151111,
+      "Rainfall":{  
+         "De Bilt":19,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151112,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151113,
+      "Rainfall":{  
+         "De Bilt":35,
+         "Leeuwarden":47,
+         "Maastricht":17
+      }
+   },
+   {  
+      "Date":20151114,
+      "Rainfall":{  
+         "De Bilt":72,
+         "Leeuwarden":86,
+         "Maastricht":32
+      }
+   },
+   {  
+      "Date":20151115,
+      "Rainfall":{  
+         "De Bilt":133,
+         "Leeuwarden":154,
+         "Maastricht":7
+      }
+   },
+   {  
+      "Date":20151116,
+      "Rainfall":{  
+         "De Bilt":33,
+         "Leeuwarden":15,
+         "Maastricht":68
+      }
+   },
+   {  
+      "Date":20151117,
+      "Rainfall":{  
+         "De Bilt":163,
+         "Leeuwarden":63,
+         "Maastricht":109
+      }
+   },
+   {  
+      "Date":20151118,
+      "Rainfall":{  
+         "De Bilt":6,
+         "Leeuwarden":35,
+         "Maastricht":47
+      }
+   },
+   {  
+      "Date":20151119,
+      "Rainfall":{  
+         "De Bilt":66,
+         "Leeuwarden":16,
+         "Maastricht":186
+      }
+   },
+   {  
+      "Date":20151120,
+      "Rainfall":{  
+         "De Bilt":46,
+         "Leeuwarden":39,
+         "Maastricht":17
+      }
+   },
+   {  
+      "Date":20151121,
+      "Rainfall":{  
+         "De Bilt":102,
+         "Leeuwarden":62,
+         "Maastricht":14
+      }
+   },
+   {  
+      "Date":20151122,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":30,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151123,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151124,
+      "Rainfall":{  
+         "De Bilt":83,
+         "Leeuwarden":94,
+         "Maastricht":55
+      }
+   },
+   {  
+      "Date":20151125,
+      "Rainfall":{  
+         "De Bilt":79,
+         "Leeuwarden":101,
+         "Maastricht":8
+      }
+   },
+   {  
+      "Date":20151126,
+      "Rainfall":{  
+         "De Bilt":3,
+         "Leeuwarden":3,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151127,
+      "Rainfall":{  
+         "De Bilt":7,
+         "Leeuwarden":5,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151128,
+      "Rainfall":{  
+         "De Bilt":83,
+         "Leeuwarden":138,
+         "Maastricht":44
+      }
+   },
+   {  
+      "Date":20151129,
+      "Rainfall":{  
+         "De Bilt":126,
+         "Leeuwarden":33,
+         "Maastricht":77
+      }
+   },
+   {  
+      "Date":20151130,
+      "Rainfall":{  
+         "De Bilt":220,
+         "Leeuwarden":122,
+         "Maastricht":175
+      }
+   },
+   {  
+      "Date":20151201,
+      "Rainfall":{  
+         "De Bilt":8,
+         "Leeuwarden":12,
+         "Maastricht":160
+      }
+   },
+   {  
+      "Date":20151202,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151203,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151204,
+      "Rainfall":{  
+         "De Bilt":60,
+         "Leeuwarden":29,
+         "Maastricht":49
+      }
+   },
+   {  
+      "Date":20151205,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151206,
+      "Rainfall":{  
+         "De Bilt":7,
+         "Leeuwarden":22,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151207,
+      "Rainfall":{  
+         "De Bilt":6,
+         "Leeuwarden":4,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151208,
+      "Rainfall":{  
+         "De Bilt":31,
+         "Leeuwarden":63,
+         "Maastricht":40
+      }
+   },
+   {  
+      "Date":20151209,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151210,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":33,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151211,
+      "Rainfall":{  
+         "De Bilt":107,
+         "Leeuwarden":47,
+         "Maastricht":150
+      }
+   },
+   {  
+      "Date":20151212,
+      "Rainfall":{  
+         "De Bilt":24,
+         "Leeuwarden":154,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151213,
+      "Rainfall":{  
+         "De Bilt":24,
+         "Leeuwarden":0,
+         "Maastricht":49
+      }
+   },
+   {  
+      "Date":20151214,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151215,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":4
+      }
+   },
+   {  
+      "Date":20151216,
+      "Rainfall":{  
+         "De Bilt":45,
+         "Leeuwarden":38,
+         "Maastricht":90
+      }
+   },
+   {  
+      "Date":20151217,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":3,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151218,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":12,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151219,
+      "Rainfall":{  
+         "De Bilt":1,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151220,
+      "Rainfall":{  
+         "De Bilt":2,
+         "Leeuwarden":4,
+         "Maastricht":7
+      }
+   },
+   {  
+      "Date":20151221,
+      "Rainfall":{  
+         "De Bilt":43,
+         "Leeuwarden":46,
+         "Maastricht":19
+      }
+   },
+   {  
+      "Date":20151222,
+      "Rainfall":{  
+         "De Bilt":13,
+         "Leeuwarden":37,
+         "Maastricht":34
+      }
+   },
+   {  
+      "Date":20151223,
+      "Rainfall":{  
+         "De Bilt":4,
+         "Leeuwarden":26,
+         "Maastricht":16
+      }
+   },
+   {  
+      "Date":20151224,
+      "Rainfall":{  
+         "De Bilt":13,
+         "Leeuwarden":4,
+         "Maastricht":28
+      }
+   },
+   {  
+      "Date":20151225,
+      "Rainfall":{  
+         "De Bilt":10,
+         "Leeuwarden":23,
+         "Maastricht":33
+      }
+   },
+   {  
+      "Date":20151226,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":3,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151227,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":8,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151228,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151229,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151230,
+      "Rainfall":{  
+         "De Bilt":0,
+         "Leeuwarden":0,
+         "Maastricht":0
+      }
+   },
+   {  
+      "Date":20151231,
+      "Rainfall":{  
+         "De Bilt":17,
+         "Leeuwarden":13,
+         "Maastricht":15
+      }
+   }
+]
