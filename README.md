@@ -18,4 +18,8 @@ Homework:
         <td>Week 4: D3 Map</td>
 		<td><a href="http://rawgit.com/BerendNannes/DataProcessing/master/Homework/Week%204/map.html">map.html</a></td>
     </tr>
+	<tr>
+        <td>Week 5: D3 Multi-line graph</td>
+		<td><a href="http://rawgit.com/BerendNannes/DataProcessing/master/Homework/Week%205/multiline.html">multiline.html</a></td>
+    </tr>
 </table>
