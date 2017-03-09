@@ -1,3 +1,30 @@
+.title {
+	width: 960px;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.options{
+  display: block;
+  height: 450px;
+  width: 400px;
+  font: 14px sans-serif;	
+}
+
+label {
+	font: 15px sans-serif;	
+}
+
+ul {
+	list-style: none;
+}
+
+p {
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+}
+
+
 .axis--x path {
   display: none;
 }
@@ -6,4 +33,28 @@
   fill: none;
   stroke: steelblue;
   stroke-width: 1.5px;
+}
+
+.overlay {
+	fill: none;
+	stroke: none;
+	pointer-events: all;
+}
+
+.focusLine {
+	fill: none;
+	stroke: black;
+	stroke-width: 0.5px;
+}
+
+.focusCircle {
+	fill: black;
+}
+
+.tooltip {	
+    position: absolute;			
+    text-align: left;			
+    width: 120px;					
+    height: 14px;									
+    font: 9px verdana;								
 }
