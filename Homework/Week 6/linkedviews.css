@@ -1,0 +1,36 @@
+body {
+	font-family: verdana;
+}
+
+h1 {
+	width: 1100px;
+	text-align: center;
+}
+
+#container {
+	position: relative; 
+	width: 1100px;
+	height: 700px;
+	background-color: #e0fffe;
+	border:1px solid black;
+}
+
+.hoverinfo {
+	font: 12px verdana;
+}
+
+#info {
+	position: absolute; 
+	width: 800px;
+	padding: 30px;
+	align: center;
+}
+
+.arc text {
+  font: 10px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}

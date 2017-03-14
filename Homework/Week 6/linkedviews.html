@@ -1,0 +1,31 @@
+<!---
+map.html
+Berend Nannes
+Data Processing
+-->
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<title>D3 Map</title>
+	<link href="linkedviews.css" rel="stylesheet" type="text/css">
+	<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+	<script src="https://d3js.org/topojson.v2.min.js"></script>
+	<script src="http://datamaps.github.io/scripts/0.4.4/datamaps.world.min.js"></script>
+	<script src="https://d3js.org/d3-queue.v3.min.js"></script>
+</head>
+<h1>RDI</h1>
+<body>
+<div id="container"></div>
+<svg width="960" height="500"></svg>
+<div id="info">
+	<p>
+		Text.
+		Source: <a href="http://globalization.kof.ethz.ch/">KOF</a>
+	</p>
+		<p>
+		This map highlights a country and provides the exact  index on mouse-over.
+	</p>
+</div>
+</body>
+<script src="linkedviews.js"></script>
