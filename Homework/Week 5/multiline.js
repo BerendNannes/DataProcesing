@@ -178,6 +178,8 @@ function draw(data) {
 					"<p style='color:rgb(36,161,34)'>" +"Maastricht: " + (data[i].Rainfall["Maastricht"])/10  + " mm</p>")
 				.style("left", x1 + margin.left + 20 + "px")		
 				.style("top", margin.top + 40 + "px");
+				
+			console.log(data[i]);
 		});
 		
 };
