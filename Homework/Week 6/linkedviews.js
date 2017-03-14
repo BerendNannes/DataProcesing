@@ -16,7 +16,7 @@ d3.queue(2)
 		d3.json(url, function(error, data) {
 			if (error) throw error;
 			clickCallback = function(code) {
-				pieChart(data, code);
+				pieChart(data[0][code]);
 			}
 		}) 
 	}, "https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Week%206/Data/religions.json")
@@ -26,17 +26,56 @@ function ready(error) {
     console.log(error.responseText);
 }
 
-function pieChart(data,code) {
-	console.log(code, data[0][code]);
+function pieChart(data) {
+	if(d3.select("#pie").empty()) {
+		console.log("empty");
+	};
 	
-	var svg = d3.select("svg"),
-	width = +svg.attr("width"),
-	height = +svg.attr("height"),
-	radius = Math.min(width, height) / 2,
-	g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
 	
-	var color = d3.scale.ordinal(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00", "#f03b20"]);
+	var svg = d3.select("#pie"),
+		width = +svg.attr("width"),
+		height = +svg.attr("height"),
+		radius = Math.min(width, height) / 2,
+		g = svg.append("g").attr("transform", "translate(" + width / 2 + "," + height / 2 + ")").attr("id","pie");
 	
+	var color = d3.scale.category10();
+	
+	var pie = d3.layout.pie()
+		.sort(null)
+		.value(function(d) { return d.percentage; });
+	
+	var path = d3.svg.arc()
+		.outerRadius(radius - 10)
+		.innerRadius(0);
+
+	var label = d3.svg.arc()
+		.outerRadius(radius - 40)
+		.innerRadius(radius - 40);
+	
+	var arc = g.selectAll(".arc")
+		.data(pie(data))
+		.enter().append("g")
+		  .attr("class", "arc");
+		  
+	arc.append("path")
+		.attr("d", path)
+		.attr("data-legend", function(d) { return d.data.religion; })
+		.attr("data-legend-pos", function(d, i) { return i; })
+		.attr("fill", function(d) { return color(d.data.religion); });
+		
+	arc.append("text")
+		.attr("transform", function(d) { return "translate(" + label.centroid(d) + ")"; })
+		.attr("dy", "0.35em")
+		.style("text-anchor", "middle");
+		//.text(function(d) { return d.data.religion; });
+		
+	var padding = 20,
+		legx = radius + padding,
+		legend = svg.append("g")
+		.attr("class", "legend")
+		.attr("transform", "translate(" + legx + ", 0)")
+		.style("font-size", "12px")
+		.call(d3.legend);
 	
 }
 
