@@ -28,6 +28,11 @@ d3.json("https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Ho
 	var map = new Datamap({
 		element: document.getElementById('container'),
 		projection: "mercator",
+		done: function(datamap) {
+				datamap.svg.selectAll('.datamaps-subunit').on('click', function(geo) {
+					alert(geo.id);
+					});
+			},	
 		geographyConfig: {
 			popupTemplate: function(geo, data) {
 				

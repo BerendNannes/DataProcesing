@@ -1,0 +1,2084 @@
+[  
+   {  
+      "ALB":{  
+         "christian":0.18,
+         "muslim":0.803,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0.014
+      },
+      "DZA":{  
+         "christian":0.002,
+         "muslim":0.979,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.018
+      },
+      "ASM":{  
+         "christian":0.983,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.003,
+         "folk religion":0.004,
+         "other":0.003,
+         "unaffiliated":0.007
+      },
+      "AGO":{  
+         "christian":0.905,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.042,
+         "other":0,
+         "unaffiliated":0.051
+      },
+      "ARG":{  
+         "christian":0.852,
+         "muslim":0.01,
+         "jewish":0.005,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.008,
+         "other":0.003,
+         "unaffiliated":0.122
+      },
+      "ABW":{  
+         "christian":0.919,
+         "muslim":0.002,
+         "jewish":0.004,
+         "hindu":0,
+         "buddhist":0.001,
+         "folk religion":0.013,
+         "other":0.001,
+         "unaffiliated":0.06
+      },
+      "AUS":{  
+         "christian":0.673,
+         "muslim":0.024,
+         "jewish":0.005,
+         "hindu":0.014,
+         "buddhist":0.027,
+         "folk religion":0.007,
+         "other":0.008,
+         "unaffiliated":0.242
+      },
+      "AUT":{  
+         "christian":0.804,
+         "muslim":0.054,
+         "jewish":0.002,
+         "hindu":0,
+         "buddhist":0.002,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0.135
+      },
+      "AZE":{  
+         "christian":0.03,
+         "muslim":0.969,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0
+      },
+      "BHS":{  
+         "christian":0.96,
+         "muslim":0.001,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.003,
+         "other":0.005,
+         "unaffiliated":0.031
+      },
+      "BHR":{  
+         "christian":0.145,
+         "muslim":0.703,
+         "jewish":0.006,
+         "hindu":0.098,
+         "buddhist":0.025,
+         "folk religion":0,
+         "other":0.004,
+         "unaffiliated":0.019
+      },
+      "BGD":{  
+         "christian":0.002,
+         "muslim":0.898,
+         "jewish":0,
+         "hindu":0.091,
+         "buddhist":0.005,
+         "folk religion":0.004,
+         "other":0,
+         "unaffiliated":0
+      },
+      "BRB":{  
+         "christian":0.952,
+         "muslim":0.01,
+         "jewish":0,
+         "hindu":0.004,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.015,
+         "unaffiliated":0.019
+      },
+      "BLR":{  
+         "christian":0.712,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.286
+      },
+      "BEL":{  
+         "christian":0.642,
+         "muslim":0.059,
+         "jewish":0.003,
+         "hindu":0,
+         "buddhist":0.002,
+         "folk religion":0.002,
+         "other":0.002,
+         "unaffiliated":0.29
+      },
+      "BLZ":{  
+         "christian":0.876,
+         "muslim":0.001,
+         "jewish":0.01,
+         "hindu":0.002,
+         "buddhist":0.005,
+         "folk religion":0.015,
+         "other":0.002,
+         "unaffiliated":0.089
+      },
+      "BEN":{  
+         "christian":0.53,
+         "muslim":0.238,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.181,
+         "other":0.001,
+         "unaffiliated":0.05
+      },
+      "BMU":{  
+         "christian":0.75,
+         "muslim":0.011,
+         "jewish":0.003,
+         "hindu":0,
+         "buddhist":0.005,
+         "folk religion":0.03,
+         "other":0.007,
+         "unaffiliated":0.194
+      },
+      "BTN":{  
+         "christian":0.005,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0.226,
+         "buddhist":0.747,
+         "folk religion":0.019,
+         "other":0.001,
+         "unaffiliated":0
+      },
+      "BOL":{  
+         "christian":0.939,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.009,
+         "other":0.011,
+         "unaffiliated":0.041
+      },
+      "BIH":{  
+         "christian":0.523,
+         "muslim":0.452,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.025
+      },
+      "BWA":{  
+         "christian":0.721,
+         "muslim":0.004,
+         "jewish":0,
+         "hindu":0.003,
+         "buddhist":0,
+         "folk religion":0.06,
+         "other":0.006,
+         "unaffiliated":0.206
+      },
+      "BRA":{  
+         "christian":0.889,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.001,
+         "folk religion":0.028,
+         "other":0.003,
+         "unaffiliated":0.079
+      },
+      "VGB":{  
+         "christian":0.845,
+         "muslim":0.012,
+         "jewish":0,
+         "hindu":0.012,
+         "buddhist":0,
+         "folk religion":0.084,
+         "other":0.008,
+         "unaffiliated":0.039
+      },
+      "BRN":{  
+         "christian":0.094,
+         "muslim":0.751,
+         "jewish":0,
+         "hindu":0.003,
+         "buddhist":0.086,
+         "folk religion":0.062,
+         "other":0,
+         "unaffiliated":0.004
+      },
+      "BGR":{  
+         "christian":0.821,
+         "muslim":0.137,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.042
+      },
+      "BFA":{  
+         "christian":0.225,
+         "muslim":0.616,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.154,
+         "other":0.001,
+         "unaffiliated":0.004
+      },
+      "MMR":{  
+         "christian":0.078,
+         "muslim":0.04,
+         "jewish":0,
+         "hindu":0.017,
+         "buddhist":0.801,
+         "folk religion":0.058,
+         "other":0.001,
+         "unaffiliated":0.005
+      },
+      "BDI":{  
+         "christian":0.915,
+         "muslim":0.028,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.057,
+         "other":0,
+         "unaffiliated":0
+      },
+      "KHM":{  
+         "christian":0.004,
+         "muslim":0.02,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.969,
+         "folk religion":0.005,
+         "other":0,
+         "unaffiliated":0.002
+      },
+      "CMR":{  
+         "christian":0.703,
+         "muslim":0.183,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.033,
+         "other":0.028,
+         "unaffiliated":0.053
+      },
+      "CAN":{  
+         "christian":0.69,
+         "muslim":0.021,
+         "jewish":0.01,
+         "hindu":0.014,
+         "buddhist":0.008,
+         "folk religion":0.012,
+         "other":0.008,
+         "unaffiliated":0.237
+      },
+      "CPV":{  
+         "christian":0.891,
+         "muslim":0.001,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.015,
+         "other":0.002,
+         "unaffiliated":0.091
+      },
+      "CYM":{  
+         "christian":0.835,
+         "muslim":0.004,
+         "jewish":0.008,
+         "hindu":0.009,
+         "buddhist":0,
+         "folk religion":0.045,
+         "other":0.005,
+         "unaffiliated":0.094
+      },
+      "CAF":{  
+         "christian":0.895,
+         "muslim":0.085,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.01,
+         "other":0,
+         "unaffiliated":0.01
+      },
+      "TCD":{  
+         "christian":0.406,
+         "muslim":0.553,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.014,
+         "other":0.002,
+         "unaffiliated":0.025
+      },
+      "CHL":{  
+         "christian":0.894,
+         "muslim":0,
+         "jewish":0.001,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.015,
+         "other":0.004,
+         "unaffiliated":0.086
+      },
+      "CHN":{  
+         "christian":0.051,
+         "muslim":0.018,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.182,
+         "folk religion":0.219,
+         "other":0.008,
+         "unaffiliated":0.522
+      },
+      "COL":{  
+         "christian":0.925,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.008,
+         "other":0.001,
+         "unaffiliated":0.066
+      },
+      "COM":{  
+         "christian":0.005,
+         "muslim":0.983,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.01,
+         "other":0.001,
+         "unaffiliated":0.001
+      },
+      "CRI":{  
+         "christian":0.909,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.008,
+         "other":0.004,
+         "unaffiliated":0.079
+      },
+      "HRV":{  
+         "christian":0.934,
+         "muslim":0.014,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.051
+      },
+      "CUB":{  
+         "christian":0.592,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0.002,
+         "buddhist":0,
+         "folk religion":0.174,
+         "other":0.002,
+         "unaffiliated":0.23
+      },
+      "CYP":{  
+         "christian":0.732,
+         "muslim":0.253,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.002,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.012
+      },
+      "CZE":{  
+         "christian":0.233,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0.764
+      },
+      "COD":{  
+         "christian":0.958,
+         "muslim":0.015,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.007,
+         "other":0.002,
+         "unaffiliated":0.018
+      },
+      "DNK":{  
+         "christian":0.835,
+         "muslim":0.041,
+         "jewish":0,
+         "hindu":0.004,
+         "buddhist":0.002,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.118
+      },
+      "DJI":{  
+         "christian":0.023,
+         "muslim":0.969,
+         "jewish":0.002,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.003,
+         "other":0.001,
+         "unaffiliated":0.002
+      },
+      "DMA":{  
+         "christian":0.944,
+         "muslim":0.001,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.001,
+         "folk religion":0.03,
+         "other":0.019,
+         "unaffiliated":0.005
+      },
+      "DOM":{  
+         "christian":0.88,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.009,
+         "other":0.002,
+         "unaffiliated":0.109
+      },
+      "ECU":{  
+         "christian":0.941,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.003,
+         "other":0.001,
+         "unaffiliated":0.055
+      },
+      "EGY":{  
+         "christian":0.051,
+         "muslim":0.949,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0
+      },
+      "SLV":{  
+         "christian":0.882,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.005,
+         "other":0.003,
+         "unaffiliated":0.11
+      },
+      "GNQ":{  
+         "christian":0.887,
+         "muslim":0.04,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.017,
+         "other":0.006,
+         "unaffiliated":0.05
+      },
+      "ERI":{  
+         "christian":0.629,
+         "muslim":0.366,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.004,
+         "other":0,
+         "unaffiliated":0.001
+      },
+      "EST":{  
+         "christian":0.399,
+         "muslim":0.002,
+         "jewish":0.001,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.596
+      },
+      "ETH":{  
+         "christian":0.628,
+         "muslim":0.346,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.026,
+         "other":0,
+         "unaffiliated":0
+      },
+      "FJI":{  
+         "christian":0.644,
+         "muslim":0.063,
+         "jewish":0,
+         "hindu":0.279,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.006,
+         "unaffiliated":0.008
+      },
+      "FIN":{  
+         "christian":0.816,
+         "muslim":0.008,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.176
+      },
+      "FRA":{  
+         "christian":0.63,
+         "muslim":0.075,
+         "jewish":0.005,
+         "hindu":0,
+         "buddhist":0.005,
+         "folk religion":0.003,
+         "other":0.002,
+         "unaffiliated":0.28
+      },
+      "GUF":{  
+         "christian":0.844,
+         "muslim":0.009,
+         "jewish":0,
+         "hindu":0.016,
+         "buddhist":0,
+         "folk religion":0.091,
+         "other":0.006,
+         "unaffiliated":0.034
+      },
+      "PYF":{  
+         "christian":0.94,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.005,
+         "other":0.006,
+         "unaffiliated":0.049
+      },
+      "GAB":{  
+         "christian":0.765,
+         "muslim":0.112,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.06,
+         "other":0.007,
+         "unaffiliated":0.056
+      },
+      "GMB":{  
+         "christian":0.045,
+         "muslim":0.951,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.001,
+         "other":0.003,
+         "unaffiliated":0
+      },
+      "GEO":{  
+         "christian":0.885,
+         "muslim":0.107,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.007
+      },
+      "DEU":{  
+         "christian":0.687,
+         "muslim":0.058,
+         "jewish":0.003,
+         "hindu":0,
+         "buddhist":0.003,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.247
+      },
+      "GHA":{  
+         "christian":0.749,
+         "muslim":0.158,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.049,
+         "other":0.002,
+         "unaffiliated":0.042
+      },
+      "GIB":{  
+         "christian":0.888,
+         "muslim":0.04,
+         "jewish":0.021,
+         "hindu":0.018,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.004,
+         "unaffiliated":0.029
+      },
+      "GRC":{  
+         "christian":0.881,
+         "muslim":0.053,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0,
+         "folk religion":0.001,
+         "other":0.003,
+         "unaffiliated":0.061
+      },
+      "GRL":{  
+         "christian":0.961,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.008,
+         "other":0.006,
+         "unaffiliated":0.025
+      },
+      "GLP":{  
+         "christian":0.959,
+         "muslim":0.004,
+         "jewish":0,
+         "hindu":0.005,
+         "buddhist":0,
+         "folk religion":0.004,
+         "other":0.003,
+         "unaffiliated":0.025
+      },
+      "GUM":{  
+         "christian":0.942,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.011,
+         "folk religion":0.015,
+         "other":0.015,
+         "unaffiliated":0.017
+      },
+      "GTM":{  
+         "christian":0.952,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.006,
+         "other":0.001,
+         "unaffiliated":0.041
+      },
+      "GIN":{  
+         "christian":0.109,
+         "muslim":0.844,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.027,
+         "other":0.002,
+         "unaffiliated":0.018
+      },
+      "GUY":{  
+         "christian":0.66,
+         "muslim":0.064,
+         "jewish":0,
+         "hindu":0.249,
+         "buddhist":0,
+         "folk religion":0.002,
+         "other":0.005,
+         "unaffiliated":0.02
+      },
+      "HTI":{  
+         "christian":0.869,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.022,
+         "other":0.003,
+         "unaffiliated":0.106
+      },
+      "HND":{  
+         "christian":0.876,
+         "muslim":0.001,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.001,
+         "folk religion":0.011,
+         "other":0.006,
+         "unaffiliated":0.105
+      },
+      "HKG":{  
+         "christian":0.143,
+         "muslim":0.018,
+         "jewish":0,
+         "hindu":0.004,
+         "buddhist":0.132,
+         "folk religion":0.128,
+         "other":0.014,
+         "unaffiliated":0.561
+      },
+      "HUN":{  
+         "christian":0.81,
+         "muslim":0,
+         "jewish":0.001,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0.186
+      },
+      "ISL":{  
+         "christian":0.95,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0.003,
+         "buddhist":0.004,
+         "folk religion":0.005,
+         "other":0.001,
+         "unaffiliated":0.035
+      },
+      "IND":{  
+         "christian":0.025,
+         "muslim":0.144,
+         "jewish":0,
+         "hindu":0.795,
+         "buddhist":0.008,
+         "folk religion":0.005,
+         "other":0.023,
+         "unaffiliated":0
+      },
+      "IDN":{  
+         "christian":0.099,
+         "muslim":0.872,
+         "jewish":0,
+         "hindu":0.017,
+         "buddhist":0.007,
+         "folk religion":0.003,
+         "other":0.002,
+         "unaffiliated":0
+      },
+      "IRN":{  
+         "christian":0.002,
+         "muslim":0.995,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.001
+      },
+      "IRQ":{  
+         "christian":0.008,
+         "muslim":0.99,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.001
+      },
+      "IRL":{  
+         "christian":0.92,
+         "muslim":0.011,
+         "jewish":0,
+         "hindu":0.002,
+         "buddhist":0.002,
+         "folk religion":0.002,
+         "other":0.001,
+         "unaffiliated":0.062
+      },
+      "IMN":{  
+         "christian":0.841,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0.002,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.154
+      },
+      "ISR":{  
+         "christian":0.02,
+         "muslim":0.186,
+         "jewish":0.756,
+         "hindu":0,
+         "buddhist":0.003,
+         "folk religion":0.002,
+         "other":0.002,
+         "unaffiliated":0.031
+      },
+      "ITA":{  
+         "christian":0.833,
+         "muslim":0.037,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0.002,
+         "folk religion":0.001,
+         "other":0.002,
+         "unaffiliated":0.124
+      },
+      "CIV":{  
+         "christian":0.441,
+         "muslim":0.375,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.102,
+         "other":0.002,
+         "unaffiliated":0.08
+      },
+      "JAM":{  
+         "christian":0.772,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.045,
+         "other":0.011,
+         "unaffiliated":0.172
+      },
+      "JPN":{  
+         "christian":0.016,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.362,
+         "folk religion":0.004,
+         "other":0.046,
+         "unaffiliated":0.57
+      },
+      "JOR":{  
+         "christian":0.022,
+         "muslim":0.972,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0.004,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0
+      },
+      "KAZ":{  
+         "christian":0.248,
+         "muslim":0.704,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.002,
+         "folk religion":0.003,
+         "other":0.001,
+         "unaffiliated":0.042
+      },
+      "KEN":{  
+         "christian":0.848,
+         "muslim":0.097,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0,
+         "folk religion":0.017,
+         "other":0.012,
+         "unaffiliated":0.025
+      },
+      "KIR":{  
+         "christian":0.97,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.022,
+         "unaffiliated":0.008
+      },
+      "XKX":{  
+         "christian":0.114,
+         "muslim":0.87,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.016
+      },
+      "KWT":{  
+         "christian":0.143,
+         "muslim":0.741,
+         "jewish":0,
+         "hindu":0.085,
+         "buddhist":0.028,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0
+      },
+      "KGZ":{  
+         "christian":0.114,
+         "muslim":0.88,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.001,
+         "other":0.001,
+         "unaffiliated":0.004
+      },
+      "LAO":{  
+         "christian":0.015,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.66,
+         "folk religion":0.307,
+         "other":0.009,
+         "unaffiliated":0.009
+      },
+      "LVA":{  
+         "christian":0.558,
+         "muslim":0.001,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0.438
+      },
+      "LBN":{  
+         "christian":0.383,
+         "muslim":0.612,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.002,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.003
+      },
+      "LSO":{  
+         "christian":0.968,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.001,
+         "other":0,
+         "unaffiliated":0.031
+      },
+      "LBR":{  
+         "christian":0.859,
+         "muslim":0.12,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.005,
+         "other":0.002,
+         "unaffiliated":0.014
+      },
+      "LBY":{  
+         "christian":0.027,
+         "muslim":0.966,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.003,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.002
+      },
+      "LIE":{  
+         "christian":0.919,
+         "muslim":0.05,
+         "jewish":0.001,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.029
+      },
+      "LTU":{  
+         "christian":0.898,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.1
+      },
+      "LUX":{  
+         "christian":0.704,
+         "muslim":0.023,
+         "jewish":0.001,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.004,
+         "unaffiliated":0.268
+      },
+      "MDG":{  
+         "christian":0.853,
+         "muslim":0.03,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.045,
+         "other":0.003,
+         "unaffiliated":0.069
+      },
+      "MWI":{  
+         "christian":0.827,
+         "muslim":0.13,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.017,
+         "other":0.001,
+         "unaffiliated":0.025
+      },
+      "MYS":{  
+         "christian":0.094,
+         "muslim":0.637,
+         "jewish":0,
+         "hindu":0.06,
+         "buddhist":0.177,
+         "folk religion":0.023,
+         "other":0.002,
+         "unaffiliated":0.007
+      },
+      "MDV":{  
+         "christian":0.004,
+         "muslim":0.984,
+         "jewish":0,
+         "hindu":0.003,
+         "buddhist":0.006,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0
+      },
+      "MLI":{  
+         "christian":0.032,
+         "muslim":0.924,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.016,
+         "other":0.001,
+         "unaffiliated":0.027
+      },
+      "MLT":{  
+         "christian":0.97,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0.002,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.025
+      },
+      "MHL":{  
+         "christian":0.975,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.003,
+         "other":0.007,
+         "unaffiliated":0.015
+      },
+      "MTQ":{  
+         "christian":0.965,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0.002,
+         "buddhist":0,
+         "folk religion":0.002,
+         "other":0.006,
+         "unaffiliated":0.023
+      },
+      "MRT":{  
+         "christian":0.003,
+         "muslim":0.991,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.005,
+         "other":0,
+         "unaffiliated":0.001
+      },
+      "MUS":{  
+         "christian":0.253,
+         "muslim":0.167,
+         "jewish":0,
+         "hindu":0.564,
+         "buddhist":0,
+         "folk religion":0.007,
+         "other":0.003,
+         "unaffiliated":0.006
+      },
+      "MYT":{  
+         "christian":0.007,
+         "muslim":0.986,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.005,
+         "other":0,
+         "unaffiliated":0.002
+      },
+      "MEX":{  
+         "christian":0.951,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.047
+      },
+      "MDA":{  
+         "christian":0.974,
+         "muslim":0.006,
+         "jewish":0.006,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.014
+      },
+      "MCO":{  
+         "christian":0.86,
+         "muslim":0.004,
+         "jewish":0.017,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.117
+      },
+      "MNG":{  
+         "christian":0.023,
+         "muslim":0.032,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.551,
+         "folk religion":0.035,
+         "other":0,
+         "unaffiliated":0.359
+      },
+      "MNE":{  
+         "christian":0.781,
+         "muslim":0.187,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.032
+      },
+      "MSR":{  
+         "christian":0.935,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0,
+         "folk religion":0.002,
+         "other":0.014,
+         "unaffiliated":0.048
+      },
+      "MAR":{  
+         "christian":0,
+         "muslim":0.999,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0
+      },
+      "MOZ":{  
+         "christian":0.567,
+         "muslim":0.18,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.074,
+         "other":0,
+         "unaffiliated":0.179
+      },
+      "NAM":{  
+         "christian":0.975,
+         "muslim":0.003,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.002,
+         "other":0.001,
+         "unaffiliated":0.019
+      },
+      "NRU":{  
+         "christian":0.79,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.011,
+         "folk religion":0.081,
+         "other":0.073,
+         "unaffiliated":0.045
+      },
+      "NPL":{  
+         "christian":0.005,
+         "muslim":0.046,
+         "jewish":0,
+         "hindu":0.806,
+         "buddhist":0.103,
+         "folk religion":0.037,
+         "other":0,
+         "unaffiliated":0.003
+      },
+      "NLD":{  
+         "christian":0.506,
+         "muslim":0.06,
+         "jewish":0.002,
+         "hindu":0.005,
+         "buddhist":0.002,
+         "folk religion":0.002,
+         "other":0.002,
+         "unaffiliated":0.421
+      },
+      "NCL":{  
+         "christian":0.852,
+         "muslim":0.028,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.006,
+         "folk religion":0.002,
+         "other":0.008,
+         "unaffiliated":0.104
+      },
+      "NZL":{  
+         "christian":0.57,
+         "muslim":0.012,
+         "jewish":0.002,
+         "hindu":0.021,
+         "buddhist":0.016,
+         "folk religion":0.005,
+         "other":0.008,
+         "unaffiliated":0.366
+      },
+      "NIC":{  
+         "christian":0.858,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.014,
+         "other":0.003,
+         "unaffiliated":0.125
+      },
+      "NER":{  
+         "christian":0.008,
+         "muslim":0.984,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.007
+      },
+      "NGA":{  
+         "christian":0.493,
+         "muslim":0.488,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.014,
+         "other":0.001,
+         "unaffiliated":0.004
+      },
+      "NIU":{  
+         "christian":0.964,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.003,
+         "unaffiliated":0.033
+      },
+      "PRK":{  
+         "christian":0.02,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.015,
+         "folk religion":0.123,
+         "other":0.129,
+         "unaffiliated":0.713
+      },
+      "NOR":{  
+         "christian":0.847,
+         "muslim":0.037,
+         "jewish":0,
+         "hindu":0.005,
+         "buddhist":0.006,
+         "folk religion":0,
+         "other":0.004,
+         "unaffiliated":0.101
+      },
+      "OMN":{  
+         "christian":0.065,
+         "muslim":0.859,
+         "jewish":0,
+         "hindu":0.055,
+         "buddhist":0.008,
+         "folk religion":0,
+         "other":0.011,
+         "unaffiliated":0.002
+      },
+      "PAK":{  
+         "christian":0.016,
+         "muslim":0.964,
+         "jewish":0,
+         "hindu":0.019,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0
+      },
+      "PLW":{  
+         "christian":0.867,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.008,
+         "folk religion":0.008,
+         "other":0.105,
+         "unaffiliated":0.012
+      },
+      "PSE":{  
+         "christian":0.024,
+         "muslim":0.976,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0
+      },
+      "PAN":{  
+         "christian":0.93,
+         "muslim":0.007,
+         "jewish":0.004,
+         "hindu":0,
+         "buddhist":0.002,
+         "folk religion":0.004,
+         "other":0.005,
+         "unaffiliated":0.048
+      },
+      "PNG":{  
+         "christian":0.992,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.004,
+         "other":0.004,
+         "unaffiliated":0
+      },
+      "PRY":{  
+         "christian":0.969,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.017,
+         "other":0.003,
+         "unaffiliated":0.011
+      },
+      "PER":{  
+         "christian":0.955,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.002,
+         "folk religion":0.01,
+         "other":0.003,
+         "unaffiliated":0.03
+      },
+      "PHL":{  
+         "christian":0.926,
+         "muslim":0.055,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.015,
+         "other":0.003,
+         "unaffiliated":0.001
+      },
+      "POL":{  
+         "christian":0.943,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.056
+      },
+      "PRT":{  
+         "christian":0.938,
+         "muslim":0.006,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0.006,
+         "folk religion":0.005,
+         "other":0,
+         "unaffiliated":0.044
+      },
+      "PRI":{  
+         "christian":0.967,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.003,
+         "folk religion":0.008,
+         "other":0.003,
+         "unaffiliated":0.019
+      },
+      "QAT":{  
+         "christian":0.138,
+         "muslim":0.677,
+         "jewish":0,
+         "hindu":0.138,
+         "buddhist":0.031,
+         "folk religion":0,
+         "other":0.007,
+         "unaffiliated":0.009
+      },
+      "MKD":{  
+         "christian":0.593,
+         "muslim":0.393,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.014
+      },
+      "ROU":{  
+         "christian":0.995,
+         "muslim":0.003,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.001
+      },
+      "RUS":{  
+         "christian":0.733,
+         "muslim":0.1,
+         "jewish":0.002,
+         "hindu":0,
+         "buddhist":0.001,
+         "folk religion":0.002,
+         "other":0,
+         "unaffiliated":0.162
+      },
+      "RWA":{  
+         "christian":0.934,
+         "muslim":0.018,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.01,
+         "other":0.002,
+         "unaffiliated":0.036
+      },
+      "WSM":{  
+         "christian":0.968,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.007,
+         "unaffiliated":0.025
+      },
+      "SMR":{  
+         "christian":0.916,
+         "muslim":0,
+         "jewish":0.003,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.009,
+         "unaffiliated":0.072
+      },
+      "SAU":{  
+         "christian":0.044,
+         "muslim":0.93,
+         "jewish":0,
+         "hindu":0.011,
+         "buddhist":0.003,
+         "folk religion":0.003,
+         "other":0.002,
+         "unaffiliated":0.007
+      },
+      "SEN":{  
+         "christian":0.036,
+         "muslim":0.964,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0
+      },
+      "SRB":{  
+         "christian":0.925,
+         "muslim":0.042,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.033
+      },
+      "SYC":{  
+         "christian":0.94,
+         "muslim":0.011,
+         "jewish":0,
+         "hindu":0.021,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.007,
+         "unaffiliated":0.021
+      },
+      "SLE":{  
+         "christian":0.209,
+         "muslim":0.78,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.008,
+         "other":0.002,
+         "unaffiliated":0.001
+      },
+      "SGP":{  
+         "christian":0.182,
+         "muslim":0.143,
+         "jewish":0,
+         "hindu":0.052,
+         "buddhist":0.339,
+         "folk religion":0.023,
+         "other":0.097,
+         "unaffiliated":0.164
+      },
+      "SVK":{  
+         "christian":0.853,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.143
+      },
+      "SVN":{  
+         "christian":0.784,
+         "muslim":0.036,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.18
+      },
+      "SLB":{  
+         "christian":0.974,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.003,
+         "folk religion":0.013,
+         "other":0.008,
+         "unaffiliated":0.002
+      },
+      "SOM":{  
+         "christian":0,
+         "muslim":0.998,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0
+      },
+      "ZAF":{  
+         "christian":0.812,
+         "muslim":0.017,
+         "jewish":0.001,
+         "hindu":0.011,
+         "buddhist":0.002,
+         "folk religion":0.004,
+         "other":0.004,
+         "unaffiliated":0.149
+      },
+      "KOR":{  
+         "christian":0.294,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.229,
+         "folk religion":0.008,
+         "other":0.003,
+         "unaffiliated":0.464
+      },
+      "SSD":{  
+         "christian":0.605,
+         "muslim":0.062,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.329,
+         "other":0,
+         "unaffiliated":0.004
+      },
+      "ESP":{  
+         "christian":0.786,
+         "muslim":0.021,
+         "jewish":0.001,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.19
+      },
+      "LKA":{  
+         "christian":0.073,
+         "muslim":0.098,
+         "jewish":0,
+         "hindu":0.136,
+         "buddhist":0.693,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0
+      },
+      "SDN":{  
+         "christian":0.054,
+         "muslim":0.907,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.028,
+         "other":0.001,
+         "unaffiliated":0.01
+      },
+      "SUR":{  
+         "christian":0.516,
+         "muslim":0.152,
+         "jewish":0.002,
+         "hindu":0.198,
+         "buddhist":0.006,
+         "folk religion":0.053,
+         "other":0.019,
+         "unaffiliated":0.054
+      },
+      "SWZ":{  
+         "christian":0.881,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0,
+         "folk religion":0.01,
+         "other":0.005,
+         "unaffiliated":0.101
+      },
+      "SWE":{  
+         "christian":0.672,
+         "muslim":0.046,
+         "jewish":0.001,
+         "hindu":0.002,
+         "buddhist":0.004,
+         "folk religion":0.002,
+         "other":0.003,
+         "unaffiliated":0.27
+      },
+      "CHE":{  
+         "christian":0.813,
+         "muslim":0.055,
+         "jewish":0.003,
+         "hindu":0.004,
+         "buddhist":0.004,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.119
+      },
+      "SYR":{  
+         "christian":0.052,
+         "muslim":0.928,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.02
+      },
+      "TWN":{  
+         "christian":0.055,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.213,
+         "folk religion":0.442,
+         "other":0.163,
+         "unaffiliated":0.127
+      },
+      "TJK":{  
+         "christian":0.016,
+         "muslim":0.967,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.015
+      },
+      "TZA":{  
+         "christian":0.614,
+         "muslim":0.352,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0,
+         "folk religion":0.018,
+         "other":0.001,
+         "unaffiliated":0.014
+      },
+      "THA":{  
+         "christian":0.009,
+         "muslim":0.055,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0.932,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.003
+      },
+      "TGO":{  
+         "christian":0.437,
+         "muslim":0.14,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.356,
+         "other":0.005,
+         "unaffiliated":0.062
+      },
+      "TKL":{  
+         "christian":0.998,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0
+      },
+      "TON":{  
+         "christian":0.989,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.01,
+         "unaffiliated":0
+      },
+      "TTO":{  
+         "christian":0.659,
+         "muslim":0.059,
+         "jewish":0,
+         "hindu":0.227,
+         "buddhist":0.003,
+         "folk religion":0.019,
+         "other":0.014,
+         "unaffiliated":0.019
+      },
+      "TUN":{  
+         "christian":0.002,
+         "muslim":0.995,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.002
+      },
+      "TUR":{  
+         "christian":0.004,
+         "muslim":0.98,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.004,
+         "unaffiliated":0.012
+      },
+      "TKM":{  
+         "christian":0.064,
+         "muslim":0.93,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.001,
+         "unaffiliated":0.005
+      },
+      "TCA":{  
+         "christian":0.921,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.027,
+         "other":0.006,
+         "unaffiliated":0.046
+      },
+      "TUV":{  
+         "christian":0.967,
+         "muslim":0.001,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.019,
+         "unaffiliated":0.013
+      },
+      "VIR":{  
+         "christian":0.948,
+         "muslim":0.001,
+         "jewish":0.003,
+         "hindu":0.004,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.007,
+         "unaffiliated":0.037
+      },
+      "UGA":{  
+         "christian":0.867,
+         "muslim":0.115,
+         "jewish":0,
+         "hindu":0.003,
+         "buddhist":0,
+         "folk religion":0.009,
+         "other":0.001,
+         "unaffiliated":0.005
+      },
+      "UKR":{  
+         "christian":0.838,
+         "muslim":0.012,
+         "jewish":0.001,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.147
+      },
+      "ARE":{  
+         "christian":0.126,
+         "muslim":0.769,
+         "jewish":0,
+         "hindu":0.066,
+         "buddhist":0.02,
+         "folk religion":0,
+         "other":0.008,
+         "unaffiliated":0.011
+      },
+      "GBR":{  
+         "christian":0.711,
+         "muslim":0.044,
+         "jewish":0.005,
+         "hindu":0.013,
+         "buddhist":0.004,
+         "folk religion":0.003,
+         "other":0.007,
+         "unaffiliated":0.213
+      },
+      "USA":{  
+         "christian":0.783,
+         "muslim":0.009,
+         "jewish":0.018,
+         "hindu":0.006,
+         "buddhist":0.012,
+         "folk religion":0.002,
+         "other":0.006,
+         "unaffiliated":0.164
+      },
+      "URY":{  
+         "christian":0.579,
+         "muslim":0,
+         "jewish":0.003,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.008,
+         "other":0.003,
+         "unaffiliated":0.407
+      },
+      "UZB":{  
+         "christian":0.023,
+         "muslim":0.967,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0.002,
+         "unaffiliated":0.008
+      },
+      "VUT":{  
+         "christian":0.933,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.041,
+         "other":0.014,
+         "unaffiliated":0.012
+      },
+      "VAT":{  
+         "christian":1,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0
+      },
+      "VEN":{  
+         "christian":0.893,
+         "muslim":0.003,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.002,
+         "other":0.002,
+         "unaffiliated":0.1
+      },
+      "VNM":{  
+         "christian":0.082,
+         "muslim":0.002,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0.164,
+         "folk religion":0.453,
+         "other":0.003,
+         "unaffiliated":0.296
+      },
+      "WLF":{  
+         "christian":0.974,
+         "muslim":0,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.012,
+         "other":0.008,
+         "unaffiliated":0.006
+      },
+      "ESH":{  
+         "christian":0.002,
+         "muslim":0.994,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.004
+      },
+      "YEM":{  
+         "christian":0.002,
+         "muslim":0.991,
+         "jewish":0,
+         "hindu":0.006,
+         "buddhist":0,
+         "folk religion":0,
+         "other":0,
+         "unaffiliated":0.001
+      },
+      "ZMB":{  
+         "christian":0.976,
+         "muslim":0.005,
+         "jewish":0,
+         "hindu":0.001,
+         "buddhist":0,
+         "folk religion":0.003,
+         "other":0.01,
+         "unaffiliated":0.005
+      },
+      "ZWE":{  
+         "christian":0.87,
+         "muslim":0.009,
+         "jewish":0,
+         "hindu":0,
+         "buddhist":0,
+         "folk religion":0.038,
+         "other":0.004,
+         "unaffiliated":0.079
+      }
+   }
+]
