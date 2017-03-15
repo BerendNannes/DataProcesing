@@ -25,23 +25,26 @@ d3.legend = function(g) {
 
     items = d3.entries(items).sort(function(a,b) { return a.value.pos-b.value.pos})
 
-    
+    // legent items
     li.selectAll("text")
-        .data(items,function(d) { return d.key})
-        .call(function(d) { d.enter().append("text")})
-        .call(function(d) { d.exit().remove()})
-        .attr("y",function(d,i) { return i+"em"})
-        .attr("x","1em")
-        .text(function(d) { ;return d.key})
+		.data(items,function(d) { return d.key})
+		.call(function(d) { d.enter().append("text")})
+		.call(function(d) { d.exit().remove()})
+		.attr("y",function(d,i) { return 1.5*i+"em"})
+		.attr("x","1em")
+		.text(function(d) { ;return d.key})
     
+	// legend dots
     li.selectAll("circle")
-        .data(items,function(d) { return d.key})
-        .call(function(d) { d.enter().append("circle")})
-        .call(function(d) { d.exit().remove()})
-        .attr("cy",function(d,i) { return i-0.25+"em"})
-        .attr("cx",0)
-        .attr("r","0.4em")
-        .style("fill",function(d) { console.log(d.value.color);return d.value.color})  
+		.data(items,function(d) { return d.key})
+		.call(function(d) { d.enter().append("circle")})
+		.call(function(d) { d.exit().remove()})
+		.attr("cy",function(d,i) { return 1.5*i-0.45+"em"})
+		.attr("cx",0)
+		.attr("r","0.60em")
+		.style("fill",function(d) { return d.value.color})  
+		.style("stroke","black")
+		.style("stroke-width","0.7");
     
     // Reposition and resize the box
     var lbbox = li[0][0].getBBox()  

@@ -22,4 +22,8 @@ Homework:
         <td>Week 5: D3 Multi-line graph</td>
 		<td><a href="http://rawgit.com/BerendNannes/DataProcessing/master/Homework/Week%205/multiline.html">multiline.html</a></td>
     </tr>
+	<tr>
+        <td>Week 6: Linked Views</td>
+		<td><a href="http://rawgit.com/BerendNannes/DataProcessing/master/Homework/Week%206/linkedviews.html">linkedviews.html</a></td>
+    </tr>
 </table>

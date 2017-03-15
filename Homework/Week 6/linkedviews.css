@@ -1,40 +1,45 @@
 body {
-	font-family: verdana;
+  font-family: verdana;
 }
 
 h1 {
-	width: 1100px;
-	text-align: center;
+  width: 1100px;
+  text-align: center;
 }
 
 #container {
-	position: relative; 
-	width: 900px;
-	height: 600px;
-	background-color: #e0fffe;
-	border:1px solid black;
+  position: relative; 
+  width: 900px;
+  height: 600px;
+  background-color: white;
+  border:none;
 }
 
 .hoverinfo {
-	font: 12px verdana;
+  font: 12px verdana;
 }
 
 #info {
-	position: absolute; 
-	width: 800px;
-	padding: 30px;
-	align: center;
-}
-
-.arc text {
-  font: 10px sans-serif;
-  text-anchor: middle;
+  position: absolute; 
+  width: 800px;
+  padding: 30px;
+  align: center;
 }
 
 .arc path {
   stroke: black;
+  stroke-width: 1px;
 }
 
 .legend rect {
-  fill:white;
-  stroke:black;}
+  height: 200px;
+  width: 250px;
+  fill: white;
+}
+
+.tooltip {	
+  position: absolute;			
+  text-align: center;							
+  height: 30px;									
+  font: 14px sans-serif;								
+}
