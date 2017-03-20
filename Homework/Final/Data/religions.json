@@ -1,0 +1,2082 @@
+[{
+"ALB": [
+     {"religion": "Christian", "percentage": 0.18},
+     {"religion": "Muslim", "percentage": 0.803},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.014}
+],
+"DZA": [
+     {"religion": "Christian", "percentage": 0.002},
+     {"religion": "Muslim", "percentage": 0.979},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.018}
+],
+"ASM": [
+     {"religion": "Christian", "percentage": 0.983},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.007}
+],
+"AGO": [
+     {"religion": "Christian", "percentage": 0.905},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.042},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.051}
+],
+"ARG": [
+     {"religion": "Christian", "percentage": 0.852},
+     {"religion": "Muslim", "percentage": 0.01},
+     {"religion": "Jewish", "percentage": 0.005},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.122}
+],
+"ABW": [
+     {"religion": "Christian", "percentage": 0.919},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0.004},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.001},
+     {"religion": "Folk religion", "percentage": 0.013},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.06}
+],
+"AUS": [
+     {"religion": "Christian", "percentage": 0.673},
+     {"religion": "Muslim", "percentage": 0.024},
+     {"religion": "Jewish", "percentage": 0.005},
+    {"religion": "Hindu", "percentage": 0.014},
+     {"religion": "Buddhist", "percentage": 0.027},
+     {"religion": "Folk religion", "percentage": 0.007},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.242}
+],
+"AUT": [
+     {"religion": "Christian", "percentage": 0.804},
+     {"religion": "Muslim", "percentage": 0.054},
+     {"religion": "Jewish", "percentage": 0.002},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.135}
+],
+"AZE": [
+     {"religion": "Christian", "percentage": 0.03},
+     {"religion": "Muslim", "percentage": 0.969},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"BHS": [
+     {"religion": "Christian", "percentage": 0.96},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.005},
+     {"religion": "Unaffiliated", "percentage": 0.031}
+],
+"BHR": [
+     {"religion": "Christian", "percentage": 0.145},
+     {"religion": "Muslim", "percentage": 0.703},
+     {"religion": "Jewish", "percentage": 0.006},
+    {"religion": "Hindu", "percentage": 0.098},
+     {"religion": "Buddhist", "percentage": 0.025},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.019}
+],
+"BGD": [
+     {"religion": "Christian", "percentage": 0.002},
+     {"religion": "Muslim", "percentage": 0.898},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.091},
+     {"religion": "Buddhist", "percentage": 0.005},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"BRB": [
+     {"religion": "Christian", "percentage": 0.952},
+     {"religion": "Muslim", "percentage": 0.01},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.004},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.015},
+     {"religion": "Unaffiliated", "percentage": 0.019}
+],
+"BLR": [
+     {"religion": "Christian", "percentage": 0.712},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.286}
+],
+"BEL": [
+     {"religion": "Christian", "percentage": 0.642},
+     {"religion": "Muslim", "percentage": 0.059},
+     {"religion": "Jewish", "percentage": 0.003},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.29}
+],
+"BLZ": [
+     {"religion": "Christian", "percentage": 0.876},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0.01},
+    {"religion": "Hindu", "percentage": 0.002},
+     {"religion": "Buddhist", "percentage": 0.005},
+     {"religion": "Folk religion", "percentage": 0.015},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.089}
+],
+"BEN": [
+     {"religion": "Christian", "percentage": 0.53},
+     {"religion": "Muslim", "percentage": 0.238},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.181},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.05}
+],
+"BMU": [
+     {"religion": "Christian", "percentage": 0.75},
+     {"religion": "Muslim", "percentage": 0.011},
+     {"religion": "Jewish", "percentage": 0.003},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.005},
+     {"religion": "Folk religion", "percentage": 0.03},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.194}
+],
+"BTN": [
+     {"religion": "Christian", "percentage": 0.005},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.226},
+     {"religion": "Buddhist", "percentage": 0.747},
+     {"religion": "Folk religion", "percentage": 0.019},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"BOL": [
+     {"religion": "Christian", "percentage": 0.939},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.009},
+     {"religion": "Other", "percentage": 0.011},
+     {"religion": "Unaffiliated", "percentage": 0.041}
+],
+"BIH": [
+     {"religion": "Christian", "percentage": 0.523},
+     {"religion": "Muslim", "percentage": 0.452},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"BWA": [
+     {"religion": "Christian", "percentage": 0.721},
+     {"religion": "Muslim", "percentage": 0.004},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.003},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.06},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.206}
+],
+"BRA": [
+     {"religion": "Christian", "percentage": 0.889},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.001},
+     {"religion": "Folk religion", "percentage": 0.028},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.079}
+],
+"VGB": [
+     {"religion": "Christian", "percentage": 0.845},
+     {"religion": "Muslim", "percentage": 0.012},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.012},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.084},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.039}
+],
+"BRN": [
+     {"religion": "Christian", "percentage": 0.094},
+     {"religion": "Muslim", "percentage": 0.751},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.003},
+     {"religion": "Buddhist", "percentage": 0.086},
+     {"religion": "Folk religion", "percentage": 0.062},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.004}
+],
+"BGR": [
+     {"religion": "Christian", "percentage": 0.821},
+     {"religion": "Muslim", "percentage": 0.137},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.042}
+],
+"BFA": [
+     {"religion": "Christian", "percentage": 0.225},
+     {"religion": "Muslim", "percentage": 0.616},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.154},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.004}
+],
+"MMR": [
+     {"religion": "Christian", "percentage": 0.078},
+     {"religion": "Muslim", "percentage": 0.04},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.017},
+     {"religion": "Buddhist", "percentage": 0.801},
+     {"religion": "Folk religion", "percentage": 0.058},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.005}
+],
+"BDI": [
+     {"religion": "Christian", "percentage": 0.915},
+     {"religion": "Muslim", "percentage": 0.028},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.057},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"KHM": [
+     {"religion": "Christian", "percentage": 0.004},
+     {"religion": "Muslim", "percentage": 0.02},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.969},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.002}
+],
+"CMR": [
+     {"religion": "Christian", "percentage": 0.703},
+     {"religion": "Muslim", "percentage": 0.183},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.033},
+     {"religion": "Other", "percentage": 0.028},
+     {"religion": "Unaffiliated", "percentage": 0.053}
+],
+"CAN": [
+     {"religion": "Christian", "percentage": 0.69},
+     {"religion": "Muslim", "percentage": 0.021},
+     {"religion": "Jewish", "percentage": 0.01},
+    {"religion": "Hindu", "percentage": 0.014},
+     {"religion": "Buddhist", "percentage": 0.008},
+     {"religion": "Folk religion", "percentage": 0.012},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.237}
+],
+"CPV": [
+     {"religion": "Christian", "percentage": 0.891},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.015},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.091}
+],
+"CYM": [
+     {"religion": "Christian", "percentage": 0.835},
+     {"religion": "Muslim", "percentage": 0.004},
+     {"religion": "Jewish", "percentage": 0.008},
+    {"religion": "Hindu", "percentage": 0.009},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.045},
+     {"religion": "Other", "percentage": 0.005},
+     {"religion": "Unaffiliated", "percentage": 0.094}
+],
+"CAF": [
+     {"religion": "Christian", "percentage": 0.895},
+     {"religion": "Muslim", "percentage": 0.085},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.01},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.01}
+],
+"TCD": [
+     {"religion": "Christian", "percentage": 0.406},
+     {"religion": "Muslim", "percentage": 0.553},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.014},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"CHL": [
+     {"religion": "Christian", "percentage": 0.894},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.015},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.086}
+],
+"CHN": [
+     {"religion": "Christian", "percentage": 0.051},
+     {"religion": "Muslim", "percentage": 0.018},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.182},
+     {"religion": "Folk religion", "percentage": 0.219},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.522}
+],
+"COL": [
+     {"religion": "Christian", "percentage": 0.925},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.066}
+],
+"COM": [
+     {"religion": "Christian", "percentage": 0.005},
+     {"religion": "Muslim", "percentage": 0.983},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.01},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"CRI": [
+     {"religion": "Christian", "percentage": 0.909},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.079}
+],
+"HRV": [
+     {"religion": "Christian", "percentage": 0.934},
+     {"religion": "Muslim", "percentage": 0.014},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.051}
+],
+"CUB": [
+     {"religion": "Christian", "percentage": 0.592},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.002},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.174},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.23}
+],
+"CYP": [
+     {"religion": "Christian", "percentage": 0.732},
+     {"religion": "Muslim", "percentage": 0.253},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.012}
+],
+"CZE": [
+     {"religion": "Christian", "percentage": 0.233},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.764}
+],
+"COD": [
+     {"religion": "Christian", "percentage": 0.958},
+     {"religion": "Muslim", "percentage": 0.015},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.007},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.018}
+],
+"DNK": [
+     {"religion": "Christian", "percentage": 0.835},
+     {"religion": "Muslim", "percentage": 0.041},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.004},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.118}
+],
+"DJI": [
+     {"religion": "Christian", "percentage": 0.023},
+     {"religion": "Muslim", "percentage": 0.969},
+     {"religion": "Jewish", "percentage": 0.002},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.002}
+],
+"DMA": [
+     {"religion": "Christian", "percentage": 0.944},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.001},
+     {"religion": "Folk religion", "percentage": 0.03},
+     {"religion": "Other", "percentage": 0.019},
+     {"religion": "Unaffiliated", "percentage": 0.005}
+],
+"DOM": [
+     {"religion": "Christian", "percentage": 0.88},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.009},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.109}
+],
+"ECU": [
+     {"religion": "Christian", "percentage": 0.941},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.055}
+],
+"EGY": [
+     {"religion": "Christian", "percentage": 0.051},
+     {"religion": "Muslim", "percentage": 0.949},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"SLV": [
+     {"religion": "Christian", "percentage": 0.882},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.11}
+],
+"GNQ": [
+     {"religion": "Christian", "percentage": 0.887},
+     {"religion": "Muslim", "percentage": 0.04},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.017},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.05}
+],
+"ERI": [
+     {"religion": "Christian", "percentage": 0.629},
+     {"religion": "Muslim", "percentage": 0.366},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"EST": [
+     {"religion": "Christian", "percentage": 0.399},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.596}
+],
+"ETH": [
+     {"religion": "Christian", "percentage": 0.628},
+     {"religion": "Muslim", "percentage": 0.346},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.026},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"FJI": [
+     {"religion": "Christian", "percentage": 0.644},
+     {"religion": "Muslim", "percentage": 0.063},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.279},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.008}
+],
+"FIN": [
+     {"religion": "Christian", "percentage": 0.816},
+     {"religion": "Muslim", "percentage": 0.008},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.176}
+],
+"FRA": [
+     {"religion": "Christian", "percentage": 0.63},
+     {"religion": "Muslim", "percentage": 0.075},
+     {"religion": "Jewish", "percentage": 0.005},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.005},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.28}
+],
+"GUF": [
+     {"religion": "Christian", "percentage": 0.844},
+     {"religion": "Muslim", "percentage": 0.009},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.016},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.091},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.034}
+],
+"PYF": [
+     {"religion": "Christian", "percentage": 0.94},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.049}
+],
+"GAB": [
+     {"religion": "Christian", "percentage": 0.765},
+     {"religion": "Muslim", "percentage": 0.112},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.06},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.056}
+],
+"GMB": [
+     {"religion": "Christian", "percentage": 0.045},
+     {"religion": "Muslim", "percentage": 0.951},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.001},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"GEO": [
+     {"religion": "Christian", "percentage": 0.885},
+     {"religion": "Muslim", "percentage": 0.107},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.007}
+],
+"DEU": [
+     {"religion": "Christian", "percentage": 0.687},
+     {"religion": "Muslim", "percentage": 0.058},
+     {"religion": "Jewish", "percentage": 0.003},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.247}
+],
+"GHA": [
+     {"religion": "Christian", "percentage": 0.749},
+     {"religion": "Muslim", "percentage": 0.158},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.049},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.042}
+],
+"GIB": [
+     {"religion": "Christian", "percentage": 0.888},
+     {"religion": "Muslim", "percentage": 0.04},
+     {"religion": "Jewish", "percentage": 0.021},
+    {"religion": "Hindu", "percentage": 0.018},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.029}
+],
+"GRC": [
+     {"religion": "Christian", "percentage": 0.881},
+     {"religion": "Muslim", "percentage": 0.053},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.001},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.061}
+],
+"GRL": [
+     {"religion": "Christian", "percentage": 0.961},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"GLP": [
+     {"religion": "Christian", "percentage": 0.959},
+     {"religion": "Muslim", "percentage": 0.004},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.005},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"GUM": [
+     {"religion": "Christian", "percentage": 0.942},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.011},
+     {"religion": "Folk religion", "percentage": 0.015},
+     {"religion": "Other", "percentage": 0.015},
+     {"religion": "Unaffiliated", "percentage": 0.017}
+],
+"GTM": [
+     {"religion": "Christian", "percentage": 0.952},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.006},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.041}
+],
+"GIN": [
+     {"religion": "Christian", "percentage": 0.109},
+     {"religion": "Muslim", "percentage": 0.844},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.027},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.018}
+],
+"GUY": [
+     {"religion": "Christian", "percentage": 0.66},
+     {"religion": "Muslim", "percentage": 0.064},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.249},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.005},
+     {"religion": "Unaffiliated", "percentage": 0.02}
+],
+"HTI": [
+     {"religion": "Christian", "percentage": 0.869},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.022},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.106}
+],
+"HND": [
+     {"religion": "Christian", "percentage": 0.876},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.001},
+     {"religion": "Folk religion", "percentage": 0.011},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.105}
+],
+"HKG": [
+     {"religion": "Christian", "percentage": 0.143},
+     {"religion": "Muslim", "percentage": 0.018},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.004},
+     {"religion": "Buddhist", "percentage": 0.132},
+     {"religion": "Folk religion", "percentage": 0.128},
+     {"religion": "Other", "percentage": 0.014},
+     {"religion": "Unaffiliated", "percentage": 0.561}
+],
+"HUN": [
+     {"religion": "Christian", "percentage": 0.81},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.186}
+],
+"ISL": [
+     {"religion": "Christian", "percentage": 0.95},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.003},
+     {"religion": "Buddhist", "percentage": 0.004},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.035}
+],
+"IND": [
+     {"religion": "Christian", "percentage": 0.025},
+     {"religion": "Muslim", "percentage": 0.144},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.795},
+     {"religion": "Buddhist", "percentage": 0.008},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0.023},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"IDN": [
+     {"religion": "Christian", "percentage": 0.099},
+     {"religion": "Muslim", "percentage": 0.872},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.017},
+     {"religion": "Buddhist", "percentage": 0.007},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"IRN": [
+     {"religion": "Christian", "percentage": 0.002},
+     {"religion": "Muslim", "percentage": 0.995},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"IRQ": [
+     {"religion": "Christian", "percentage": 0.008},
+     {"religion": "Muslim", "percentage": 0.99},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"IRL": [
+     {"religion": "Christian", "percentage": 0.92},
+     {"religion": "Muslim", "percentage": 0.011},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.002},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.062}
+],
+"IMN": [
+     {"religion": "Christian", "percentage": 0.841},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.002},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.154}
+],
+"ISR": [
+     {"religion": "Christian", "percentage": 0.02},
+     {"religion": "Muslim", "percentage": 0.186},
+     {"religion": "Jewish", "percentage": 0.756},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.031}
+],
+"ITA": [
+     {"religion": "Christian", "percentage": 0.833},
+     {"religion": "Muslim", "percentage": 0.037},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.001},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.124}
+],
+"CIV": [
+     {"religion": "Christian", "percentage": 0.441},
+     {"religion": "Muslim", "percentage": 0.375},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.102},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.08}
+],
+"JAM": [
+     {"religion": "Christian", "percentage": 0.772},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.045},
+     {"religion": "Other", "percentage": 0.011},
+     {"religion": "Unaffiliated", "percentage": 0.172}
+],
+"JPN": [
+     {"religion": "Christian", "percentage": 0.016},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.362},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0.046},
+     {"religion": "Unaffiliated", "percentage": 0.57}
+],
+"JOR": [
+     {"religion": "Christian", "percentage": 0.022},
+     {"religion": "Muslim", "percentage": 0.972},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0.004},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"KAZ": [
+     {"religion": "Christian", "percentage": 0.248},
+     {"religion": "Muslim", "percentage": 0.704},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.042}
+],
+"KEN": [
+     {"religion": "Christian", "percentage": 0.848},
+     {"religion": "Muslim", "percentage": 0.097},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.017},
+     {"religion": "Other", "percentage": 0.012},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"KIR": [
+     {"religion": "Christian", "percentage": 0.97},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.022},
+     {"religion": "Unaffiliated", "percentage": 0.008}
+],
+"XKX": [
+     {"religion": "Christian", "percentage": 0.114},
+     {"religion": "Muslim", "percentage": 0.87},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.016}
+],
+"KWT": [
+     {"religion": "Christian", "percentage": 0.143},
+     {"religion": "Muslim", "percentage": 0.741},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.085},
+     {"religion": "Buddhist", "percentage": 0.028},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"KGZ": [
+     {"religion": "Christian", "percentage": 0.114},
+     {"religion": "Muslim", "percentage": 0.88},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.001},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.004}
+],
+"LAO": [
+     {"religion": "Christian", "percentage": 0.015},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.66},
+     {"religion": "Folk religion", "percentage": 0.307},
+     {"religion": "Other", "percentage": 0.009},
+     {"religion": "Unaffiliated", "percentage": 0.009}
+],
+"LVA": [
+     {"religion": "Christian", "percentage": 0.558},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.438}
+],
+"LBN": [
+     {"religion": "Christian", "percentage": 0.383},
+     {"religion": "Muslim", "percentage": 0.612},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.003}
+],
+"LSO": [
+     {"religion": "Christian", "percentage": 0.968},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.001},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.031}
+],
+"LBR": [
+     {"religion": "Christian", "percentage": 0.859},
+     {"religion": "Muslim", "percentage": 0.12},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.014}
+],
+"LBY": [
+     {"religion": "Christian", "percentage": 0.027},
+     {"religion": "Muslim", "percentage": 0.966},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.002}
+],
+"LIE": [
+     {"religion": "Christian", "percentage": 0.919},
+     {"religion": "Muslim", "percentage": 0.05},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.029}
+],
+"LTU": [
+     {"religion": "Christian", "percentage": 0.898},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.1}
+],
+"LUX": [
+     {"religion": "Christian", "percentage": 0.704},
+     {"religion": "Muslim", "percentage": 0.023},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.268}
+],
+"MDG": [
+     {"religion": "Christian", "percentage": 0.853},
+     {"religion": "Muslim", "percentage": 0.03},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.045},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.069}
+],
+"MWI": [
+     {"religion": "Christian", "percentage": 0.827},
+     {"religion": "Muslim", "percentage": 0.13},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.017},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"MYS": [
+     {"religion": "Christian", "percentage": 0.094},
+     {"religion": "Muslim", "percentage": 0.637},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.06},
+     {"religion": "Buddhist", "percentage": 0.177},
+     {"religion": "Folk religion", "percentage": 0.023},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.007}
+],
+"MDV": [
+     {"religion": "Christian", "percentage": 0.004},
+     {"religion": "Muslim", "percentage": 0.984},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.003},
+     {"religion": "Buddhist", "percentage": 0.006},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"MLI": [
+     {"religion": "Christian", "percentage": 0.032},
+     {"religion": "Muslim", "percentage": 0.924},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.016},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.027}
+],
+"MLT": [
+     {"religion": "Christian", "percentage": 0.97},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.002},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"MHL": [
+     {"religion": "Christian", "percentage": 0.975},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.015}
+],
+"MTQ": [
+     {"religion": "Christian", "percentage": 0.965},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.002},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.023}
+],
+"MRT": [
+     {"religion": "Christian", "percentage": 0.003},
+     {"religion": "Muslim", "percentage": 0.991},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"MUS": [
+     {"religion": "Christian", "percentage": 0.253},
+     {"religion": "Muslim", "percentage": 0.167},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.564},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.007},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.006}
+],
+"MYT": [
+     {"religion": "Christian", "percentage": 0.007},
+     {"religion": "Muslim", "percentage": 0.986},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.002}
+],
+"MEX": [
+     {"religion": "Christian", "percentage": 0.951},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.047}
+],
+"MDA": [
+     {"religion": "Christian", "percentage": 0.974},
+     {"religion": "Muslim", "percentage": 0.006},
+     {"religion": "Jewish", "percentage": 0.006},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.014}
+],
+"MCO": [
+     {"religion": "Christian", "percentage": 0.86},
+     {"religion": "Muslim", "percentage": 0.004},
+     {"religion": "Jewish", "percentage": 0.017},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.117}
+],
+"MNG": [
+     {"religion": "Christian", "percentage": 0.023},
+     {"religion": "Muslim", "percentage": 0.032},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.551},
+     {"religion": "Folk religion", "percentage": 0.035},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.359}
+],
+"MNE": [
+     {"religion": "Christian", "percentage": 0.781},
+     {"religion": "Muslim", "percentage": 0.187},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.032}
+],
+"MSR": [
+     {"religion": "Christian", "percentage": 0.935},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.014},
+     {"religion": "Unaffiliated", "percentage": 0.048}
+],
+"MAR": [
+     {"religion": "Christian", "percentage": 0},
+     {"religion": "Muslim", "percentage": 0.999},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"MOZ": [
+     {"religion": "Christian", "percentage": 0.567},
+     {"religion": "Muslim", "percentage": 0.18},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.074},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.179}
+],
+"NAM": [
+     {"religion": "Christian", "percentage": 0.975},
+     {"religion": "Muslim", "percentage": 0.003},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.019}
+],
+"NRU": [
+     {"religion": "Christian", "percentage": 0.79},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.011},
+     {"religion": "Folk religion", "percentage": 0.081},
+     {"religion": "Other", "percentage": 0.073},
+     {"religion": "Unaffiliated", "percentage": 0.045}
+],
+"NPL": [
+     {"religion": "Christian", "percentage": 0.005},
+     {"religion": "Muslim", "percentage": 0.046},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.806},
+     {"religion": "Buddhist", "percentage": 0.103},
+     {"religion": "Folk religion", "percentage": 0.037},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.003}
+],
+"NLD": [
+     {"religion": "Christian", "percentage": 0.506},
+     {"religion": "Muslim", "percentage": 0.06},
+     {"religion": "Jewish", "percentage": 0.002},
+    {"religion": "Hindu", "percentage": 0.005},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.421}
+],
+"NCL": [
+     {"religion": "Christian", "percentage": 0.852},
+     {"religion": "Muslim", "percentage": 0.028},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.006},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.104}
+],
+"NZL": [
+     {"religion": "Christian", "percentage": 0.57},
+     {"religion": "Muslim", "percentage": 0.012},
+     {"religion": "Jewish", "percentage": 0.002},
+    {"religion": "Hindu", "percentage": 0.021},
+     {"religion": "Buddhist", "percentage": 0.016},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.366}
+],
+"NIC": [
+     {"religion": "Christian", "percentage": 0.858},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.014},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.125}
+],
+"NER": [
+     {"religion": "Christian", "percentage": 0.008},
+     {"religion": "Muslim", "percentage": 0.984},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.007}
+],
+"NGA": [
+     {"religion": "Christian", "percentage": 0.493},
+     {"religion": "Muslim", "percentage": 0.488},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.014},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.004}
+],
+"NIU": [
+     {"religion": "Christian", "percentage": 0.964},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.033}
+],
+"PRK": [
+     {"religion": "Christian", "percentage": 0.02},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.015},
+     {"religion": "Folk religion", "percentage": 0.123},
+     {"religion": "Other", "percentage": 0.129},
+     {"religion": "Unaffiliated", "percentage": 0.713}
+],
+"NOR": [
+     {"religion": "Christian", "percentage": 0.847},
+     {"religion": "Muslim", "percentage": 0.037},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.005},
+     {"religion": "Buddhist", "percentage": 0.006},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.101}
+],
+"OMN": [
+     {"religion": "Christian", "percentage": 0.065},
+     {"religion": "Muslim", "percentage": 0.859},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.055},
+     {"religion": "Buddhist", "percentage": 0.008},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.011},
+     {"religion": "Unaffiliated", "percentage": 0.002}
+],
+"PAK": [
+     {"religion": "Christian", "percentage": 0.016},
+     {"religion": "Muslim", "percentage": 0.964},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.019},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"PLW": [
+     {"religion": "Christian", "percentage": 0.867},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.008},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.105},
+     {"religion": "Unaffiliated", "percentage": 0.012}
+],
+"PSE": [
+     {"religion": "Christian", "percentage": 0.024},
+     {"religion": "Muslim", "percentage": 0.976},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"PAN": [
+     {"religion": "Christian", "percentage": 0.93},
+     {"religion": "Muslim", "percentage": 0.007},
+     {"religion": "Jewish", "percentage": 0.004},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0.005},
+     {"religion": "Unaffiliated", "percentage": 0.048}
+],
+"PNG": [
+     {"religion": "Christian", "percentage": 0.992},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"PRY": [
+     {"religion": "Christian", "percentage": 0.969},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.017},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.011}
+],
+"PER": [
+     {"religion": "Christian", "percentage": 0.955},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.01},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.03}
+],
+"PHL": [
+     {"religion": "Christian", "percentage": 0.926},
+     {"religion": "Muslim", "percentage": 0.055},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.015},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"POL": [
+     {"religion": "Christian", "percentage": 0.943},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.056}
+],
+"PRT": [
+     {"religion": "Christian", "percentage": 0.938},
+     {"religion": "Muslim", "percentage": 0.006},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0.006},
+     {"religion": "Folk religion", "percentage": 0.005},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.044}
+],
+"PRI": [
+     {"religion": "Christian", "percentage": 0.967},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.019}
+],
+"QAT": [
+     {"religion": "Christian", "percentage": 0.138},
+     {"religion": "Muslim", "percentage": 0.677},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.138},
+     {"religion": "Buddhist", "percentage": 0.031},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.009}
+],
+"MKD": [
+     {"religion": "Christian", "percentage": 0.593},
+     {"religion": "Muslim", "percentage": 0.393},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.014}
+],
+"ROU": [
+     {"religion": "Christian", "percentage": 0.995},
+     {"religion": "Muslim", "percentage": 0.003},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"RUS": [
+     {"religion": "Christian", "percentage": 0.733},
+     {"religion": "Muslim", "percentage": 0.1},
+     {"religion": "Jewish", "percentage": 0.002},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.001},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.162}
+],
+"RWA": [
+     {"religion": "Christian", "percentage": 0.934},
+     {"religion": "Muslim", "percentage": 0.018},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.01},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.036}
+],
+"WSM": [
+     {"religion": "Christian", "percentage": 0.968},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.025}
+],
+"SMR": [
+     {"religion": "Christian", "percentage": 0.916},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0.003},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.009},
+     {"religion": "Unaffiliated", "percentage": 0.072}
+],
+"SAU": [
+     {"religion": "Christian", "percentage": 0.044},
+     {"religion": "Muslim", "percentage": 0.93},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.011},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.007}
+],
+"SEN": [
+     {"religion": "Christian", "percentage": 0.036},
+     {"religion": "Muslim", "percentage": 0.964},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"SRB": [
+     {"religion": "Christian", "percentage": 0.925},
+     {"religion": "Muslim", "percentage": 0.042},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.033}
+],
+"SYC": [
+     {"religion": "Christian", "percentage": 0.94},
+     {"religion": "Muslim", "percentage": 0.011},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.021},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.021}
+],
+"SLE": [
+     {"religion": "Christian", "percentage": 0.209},
+     {"religion": "Muslim", "percentage": 0.78},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"SGP": [
+     {"religion": "Christian", "percentage": 0.182},
+     {"religion": "Muslim", "percentage": 0.143},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.052},
+     {"religion": "Buddhist", "percentage": 0.339},
+     {"religion": "Folk religion", "percentage": 0.023},
+     {"religion": "Other", "percentage": 0.097},
+     {"religion": "Unaffiliated", "percentage": 0.164}
+],
+"SVK": [
+     {"religion": "Christian", "percentage": 0.853},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.143}
+],
+"SVN": [
+     {"religion": "Christian", "percentage": 0.784},
+     {"religion": "Muslim", "percentage": 0.036},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.18}
+],
+"SLB": [
+     {"religion": "Christian", "percentage": 0.974},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0.013},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.002}
+],
+"SOM": [
+     {"religion": "Christian", "percentage": 0},
+     {"religion": "Muslim", "percentage": 0.998},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"ZAF": [
+     {"religion": "Christian", "percentage": 0.812},
+     {"religion": "Muslim", "percentage": 0.017},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0.011},
+     {"religion": "Buddhist", "percentage": 0.002},
+     {"religion": "Folk religion", "percentage": 0.004},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.149}
+],
+"KOR": [
+     {"religion": "Christian", "percentage": 0.294},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.229},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.464}
+],
+"SSD": [
+     {"religion": "Christian", "percentage": 0.605},
+     {"religion": "Muslim", "percentage": 0.062},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.329},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.004}
+],
+"ESP": [
+     {"religion": "Christian", "percentage": 0.786},
+     {"religion": "Muslim", "percentage": 0.021},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.19}
+],
+"LKA": [
+     {"religion": "Christian", "percentage": 0.073},
+     {"religion": "Muslim", "percentage": 0.098},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.136},
+     {"religion": "Buddhist", "percentage": 0.693},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"SDN": [
+     {"religion": "Christian", "percentage": 0.054},
+     {"religion": "Muslim", "percentage": 0.907},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.028},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.01}
+],
+"SUR": [
+     {"religion": "Christian", "percentage": 0.516},
+     {"religion": "Muslim", "percentage": 0.152},
+     {"religion": "Jewish", "percentage": 0.002},
+    {"religion": "Hindu", "percentage": 0.198},
+     {"religion": "Buddhist", "percentage": 0.006},
+     {"religion": "Folk religion", "percentage": 0.053},
+     {"religion": "Other", "percentage": 0.019},
+     {"religion": "Unaffiliated", "percentage": 0.054}
+],
+"SWZ": [
+     {"religion": "Christian", "percentage": 0.881},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.01},
+     {"religion": "Other", "percentage": 0.005},
+     {"religion": "Unaffiliated", "percentage": 0.101}
+],
+"SWE": [
+     {"religion": "Christian", "percentage": 0.672},
+     {"religion": "Muslim", "percentage": 0.046},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0.002},
+     {"religion": "Buddhist", "percentage": 0.004},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.27}
+],
+"CHE": [
+     {"religion": "Christian", "percentage": 0.813},
+     {"religion": "Muslim", "percentage": 0.055},
+     {"religion": "Jewish", "percentage": 0.003},
+    {"religion": "Hindu", "percentage": 0.004},
+     {"religion": "Buddhist", "percentage": 0.004},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.119}
+],
+"SYR": [
+     {"religion": "Christian", "percentage": 0.052},
+     {"religion": "Muslim", "percentage": 0.928},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.02}
+],
+"TWN": [
+     {"religion": "Christian", "percentage": 0.055},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.213},
+     {"religion": "Folk religion", "percentage": 0.442},
+     {"religion": "Other", "percentage": 0.163},
+     {"religion": "Unaffiliated", "percentage": 0.127}
+],
+"TJK": [
+     {"religion": "Christian", "percentage": 0.016},
+     {"religion": "Muslim", "percentage": 0.967},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.015}
+],
+"TZA": [
+     {"religion": "Christian", "percentage": 0.614},
+     {"religion": "Muslim", "percentage": 0.352},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.018},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.014}
+],
+"THA": [
+     {"religion": "Christian", "percentage": 0.009},
+     {"religion": "Muslim", "percentage": 0.055},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0.932},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.003}
+],
+"TGO": [
+     {"religion": "Christian", "percentage": 0.437},
+     {"religion": "Muslim", "percentage": 0.14},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.356},
+     {"religion": "Other", "percentage": 0.005},
+     {"religion": "Unaffiliated", "percentage": 0.062}
+],
+"TKL": [
+     {"religion": "Christian", "percentage": 0.998},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"TON": [
+     {"religion": "Christian", "percentage": 0.989},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.01},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"TTO": [
+     {"religion": "Christian", "percentage": 0.659},
+     {"religion": "Muslim", "percentage": 0.059},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.227},
+     {"religion": "Buddhist", "percentage": 0.003},
+     {"religion": "Folk religion", "percentage": 0.019},
+     {"religion": "Other", "percentage": 0.014},
+     {"religion": "Unaffiliated", "percentage": 0.019}
+],
+"TUN": [
+     {"religion": "Christian", "percentage": 0.002},
+     {"religion": "Muslim", "percentage": 0.995},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.002}
+],
+"TUR": [
+     {"religion": "Christian", "percentage": 0.004},
+     {"religion": "Muslim", "percentage": 0.98},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.012}
+],
+"TKM": [
+     {"religion": "Christian", "percentage": 0.064},
+     {"religion": "Muslim", "percentage": 0.93},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.005}
+],
+"TCA": [
+     {"religion": "Christian", "percentage": 0.921},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.027},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.046}
+],
+"TUV": [
+     {"religion": "Christian", "percentage": 0.967},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.019},
+     {"religion": "Unaffiliated", "percentage": 0.013}
+],
+"VIR": [
+     {"religion": "Christian", "percentage": 0.948},
+     {"religion": "Muslim", "percentage": 0.001},
+     {"religion": "Jewish", "percentage": 0.003},
+    {"religion": "Hindu", "percentage": 0.004},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.037}
+],
+"UGA": [
+     {"religion": "Christian", "percentage": 0.867},
+     {"religion": "Muslim", "percentage": 0.115},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.003},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.009},
+     {"religion": "Other", "percentage": 0.001},
+     {"religion": "Unaffiliated", "percentage": 0.005}
+],
+"UKR": [
+     {"religion": "Christian", "percentage": 0.838},
+     {"religion": "Muslim", "percentage": 0.012},
+     {"religion": "Jewish", "percentage": 0.001},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.147}
+],
+"ARE": [
+     {"religion": "Christian", "percentage": 0.126},
+     {"religion": "Muslim", "percentage": 0.769},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.066},
+     {"religion": "Buddhist", "percentage": 0.02},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.011}
+],
+"GBR": [
+     {"religion": "Christian", "percentage": 0.711},
+     {"religion": "Muslim", "percentage": 0.044},
+     {"religion": "Jewish", "percentage": 0.005},
+    {"religion": "Hindu", "percentage": 0.013},
+     {"religion": "Buddhist", "percentage": 0.004},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.007},
+     {"religion": "Unaffiliated", "percentage": 0.213}
+],
+"USA": [
+     {"religion": "Christian", "percentage": 0.783},
+     {"religion": "Muslim", "percentage": 0.009},
+     {"religion": "Jewish", "percentage": 0.018},
+    {"religion": "Hindu", "percentage": 0.006},
+     {"religion": "Buddhist", "percentage": 0.012},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.006},
+     {"religion": "Unaffiliated", "percentage": 0.164}
+],
+"URY": [
+     {"religion": "Christian", "percentage": 0.579},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0.003},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.008},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.407}
+],
+"UZB": [
+     {"religion": "Christian", "percentage": 0.023},
+     {"religion": "Muslim", "percentage": 0.967},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.008}
+],
+"VUT": [
+     {"religion": "Christian", "percentage": 0.933},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.041},
+     {"religion": "Other", "percentage": 0.014},
+     {"religion": "Unaffiliated", "percentage": 0.012}
+],
+"VAT": [
+     {"religion": "Christian", "percentage": 1},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0}
+],
+"VEN": [
+     {"religion": "Christian", "percentage": 0.893},
+     {"religion": "Muslim", "percentage": 0.003},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.002},
+     {"religion": "Other", "percentage": 0.002},
+     {"religion": "Unaffiliated", "percentage": 0.1}
+],
+"VNM": [
+     {"religion": "Christian", "percentage": 0.082},
+     {"religion": "Muslim", "percentage": 0.002},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0.164},
+     {"religion": "Folk religion", "percentage": 0.453},
+     {"religion": "Other", "percentage": 0.003},
+     {"religion": "Unaffiliated", "percentage": 0.296}
+],
+"WLF": [
+     {"religion": "Christian", "percentage": 0.974},
+     {"religion": "Muslim", "percentage": 0},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.012},
+     {"religion": "Other", "percentage": 0.008},
+     {"religion": "Unaffiliated", "percentage": 0.006}
+],
+"ESH": [
+     {"religion": "Christian", "percentage": 0.002},
+     {"religion": "Muslim", "percentage": 0.994},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.004}
+],
+"YEM": [
+     {"religion": "Christian", "percentage": 0.002},
+     {"religion": "Muslim", "percentage": 0.991},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.006},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0},
+     {"religion": "Other", "percentage": 0},
+     {"religion": "Unaffiliated", "percentage": 0.001}
+],
+"ZMB": [
+     {"religion": "Christian", "percentage": 0.976},
+     {"religion": "Muslim", "percentage": 0.005},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0.001},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.003},
+     {"religion": "Other", "percentage": 0.01},
+     {"religion": "Unaffiliated", "percentage": 0.005}
+],
+"ZWE": [
+     {"religion": "Christian", "percentage": 0.87},
+     {"religion": "Muslim", "percentage": 0.009},
+     {"religion": "Jewish", "percentage": 0},
+    {"religion": "Hindu", "percentage": 0},
+     {"religion": "Buddhist", "percentage": 0},
+     {"religion": "Folk religion", "percentage": 0.038},
+     {"religion": "Other", "percentage": 0.004},
+     {"religion": "Unaffiliated", "percentage": 0.079}
+]
+}]
