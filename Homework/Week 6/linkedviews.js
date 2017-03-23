@@ -1,8 +1,20 @@
 /*
-map.js
+linkedviews.js
 Data Processing
 Berend Nannes
 */
+
+// set default data
+var defaultData = [{
+	name: "flare",
+	children: [{
+		name: "Nonreligious",
+		size: 1
+	}]
+}]			
+
+// standard sunburst
+sunBurst(defaultData,"Country",0);
 
 // que json files
 d3.queue(2)
@@ -16,95 +28,131 @@ d3.queue(2)
     .defer(function(url, callback) {
 		d3.json(url, function(error, data) {
 			if (error) throw error;
-			// send to pieChart
+			// send to sunBurst
 			clickCallback = function(code, country, index) {
-				pieChart(data[0][code], country, index);
+				sunBurst(data[0][code], country, index);
 			}
 		}) 
-	}, "https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Week%206/Data/religions.json")
+	}, "https://raw.githubusercontent.com/BerendNannes/DataProcessing/master/Homework/Week%206/Data/religion.json")
     .await(ready);
 	
 function ready(error) {
-    console.log(error.responseText);
+    if (error) throw error;
 }
 
-function pieChart(data, country, index) {
-	// draws pie chart
-
-	// remove any existing data
-	d3.select("#donut").remove();
-	d3.select("#countryText").remove();
+// create sunburst visualization
+function sunBurst(data, country, index) {
+	
+	// remove old data
+	d3.select("#sun").remove();
 	d3.select(".tooltip").remove();
+	d3.select("#countryContainer").html("");
 	
-	// define div for tooltip
-	var div = d3.select("body").append("div")	
-		.attr("class", "tooltip")				
-		.style("opacity", 0);
-	
-	var svg = d3.select("#pie"),
-		width = +svg.attr("width"),
-		height = +svg.attr("height"),
-		radius = Math.min(width, height) / 2,
-		g = svg.append("g").attr("transform", "translate(" + (radius+20) + "," + height / 2 + ")").attr("id","donut");
-	
-	var color = d3.scale.ordinal()
-		.range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00", "white"]);
-	
-	var pie = d3.layout.pie()
-		.sort(null)
-		.value(function(d) { return d.percentage; });
-	
-	var path = d3.svg.arc()
-		.outerRadius(radius - 10)
-		.innerRadius(radius - 60);
+	// reset mode
+	document.getElementById("default").checked = true;
 
-	var label = d3.svg.arc()
-		.outerRadius(radius - 40)
-		.innerRadius(radius - 40);
+	// define div for tooltip
+	var div = d3.select("#burstContainer").append("div")	
+		.attr("class", "tooltip")				
+		.style("opacity", 0)
+		.style("text-align", "center");
 	
-	var arc = g.selectAll(".arc")
-		.data(pie(data))
-		.enter().append("g")
-		  .attr("class", "arc");
-		  
-	arc.append("path")
-		.attr("d", path)
-		.attr("data-legend", function(d) { return d.data.religion; })
-		.attr("data-legend-pos", function(d, i) { return i; })
-		.attr("fill", function(d) { return color(d.data.religion); })
-		.on("mouseover", function(d) { 
+	// set parameters
+	var width = 250,
+	height = 200,
+	radius = Math.min(width, height) / 2,
+	color = d3.scale.ordinal()
+		.range(["white", "#4682B4", "#FFD700", "#109615", "#B22222", "#FF8C00", "#eee", "white"]);
+	
+	// append svg container
+	var svg = d3.select("#burstContainer").append("svg")
+		.attr("id","sun")
+		.attr("width", width)
+		.attr("height", height)
+	  .append("g")
+		.attr("transform", "translate(0" + (radius+20) + "," + height * .5 + ")");
+	
+	// define partitions
+	var partition = d3.layout.partition()
+		.sort(null)
+		.size([2 * Math.PI, radius * radius])
+		.value(function(d) {return d.size; });
+	
+	var arc = d3.svg.arc()
+		.startAngle(function(d) { return d.x; })
+		.endAngle(function(d) { return d.x + d.dx; })
+		.innerRadius(function(d) { return Math.sqrt(d.y); })
+		.outerRadius(function(d) { return Math.sqrt(d.y + d.dy); });
+	
+	// return standard if no data
+	if(typeof data === "undefined") {
+		data = defaultData;
+		country = "No data available";
+		index = 0;
+	};
+	
+	// draw sunburst
+	var path = svg.datum(data[0]).selectAll("path")
+	.data(partition.nodes)
+  .enter().append("path")
+	.attr("display", function(d) { return d.depth ? null : "none"; }) // hide inner ring
+	.attr("d", arc)
+	.attr("class","part")
+	.style("fill", function(d) { return color(((d.children || (d.depth < 2)) ? d : d.parent).name); })
+	.style("fill-rule", "evenodd")
+	.each(stash)
+	// add mouseover functionality
+	.on("mouseover", function(d) {
 		div.transition()		
 			.duration(200)		
 			.style("opacity", .9);	
-		div.html("<strong>"+d.data.religion+"</strong></br>"+(d.data.percentage*100).toFixed(1)+"%")
+		div.html("<b>" + formatNumber(d.total) + "</b><br/>" + ((d.parent && (d.depth > 1)) ? (d.parent.name + "<br/>") : "") + d.name + "<br/>")
 			.style("width", radius + "px")
-			.style("left", 90 + "px")		
-			.style("top", 790 + "px");
-		});
-		
-		
-	var countryText = svg.append("text")
-		.attr("id","countryText")
-		.attr("transform", "translate(280, 30)")
-		.attr("fill","black")
-	   .append("tspan").html(country)
-		.attr("font-size","19")
-		.attr("font-weight","bold")
-	   .append("tspan").attr("x","0").attr("y","1.3em").html("RDI: " + index)
-		.attr("font-size","16")
-		.attr("font-weight","normal");
-		//.html(country + ": " + index);
-		
-	var padding = 50,
-		legx = 2*radius + padding,
-		legend = svg.append("g")
-		.attr("class", "legend")
-		.attr("transform", "translate(" + legx + ", 90)")
-		.style("font-size", "12px")
-		.call(d3.legend);
+			.style("left", 820 + "px")		
+			.style("top", 360 + "px");
+		});	
 	
+	// add country info
+	var countryText = d3.select("#countryContainer")
+	   .append("span")
+		.style("font-size","25px")
+		.style("font-weight","bold")
+		.html(country+"<br/>")
+	   .append("span")
+		.style("font-size","20px")
+		.style("font-weight","normal")
+		.style("align","right")
+		.html("RDI: " + index);
+
+	// change view
+	d3.selectAll("input").on("change", function change() {
+	  var value = this.value === "count"
+		? function() { return 1; }
+		: function(d) { return d.size; };
+
+	  path
+		.data(partition.value(value).nodes)
+       .transition()
+		.duration(1500)
+		.attrTween("d", arcTween);
+	
+
+	// Interpolate the arcs in data space.
+	function arcTween(a) {
+		  var i = d3.interpolate({x: a.x0, dx: a.dx0}, a);
+		  return function(t) {
+				var b = i(t);
+				a.x0 = b.x;
+				a.dx0 = b.dx;
+				return arc(b);
+	  };
 }
 
+d3.select(self.frameElement).style("height", height + "px");
+  });
+}
+
+// create data map
 function map(RDI) {
 	
 	// retrieve json data
@@ -118,7 +166,7 @@ function map(RDI) {
 	// create color scale
 	var paletteScale = d3.scale.linear()
 		.domain([minIndex, maxIndex])
-		.range(["#efedf5","#4a1486"]);
+		.range(["#efedf5","#4d4675"]);
 	
 	// set fillColor to data points
 	for (var i in dataset) {
@@ -127,7 +175,7 @@ function map(RDI) {
 	
 	var map = new Datamap({
 		// create data map
-		element: document.getElementById('container'),
+		element: document.getElementById('mapContainer'),
 		projection: "mercator",
 		done: function(datamap) {
 				datamap.svg.selectAll('.datamaps-subunit').on('click', function(geo) {
@@ -150,7 +198,7 @@ function map(RDI) {
 				
 			// style properties
 			borderColor: 'black',
-			borderWidth: 0.8,
+			borderWidth: 0.6,
 			highlightFillColor: 'black',
 			highlightBorderColor: 'black',
 		},
@@ -162,3 +210,15 @@ function map(RDI) {
 		data: dataset
 	});
 };
+
+// Stash the old values for transition.
+function stash(d) {
+	d.total = d.value;
+	d.x0 = d.x;
+	d.dx0 = d.dx;
+}
+
+// format big numbers
+function formatNumber(x) {
+    return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}

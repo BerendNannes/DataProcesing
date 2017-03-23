@@ -9,24 +9,60 @@ Data Processing
 <head>
 	<title>D3 Map</title>
 	<link href="linkedviews.css" rel="stylesheet" type="text/css">
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
 	<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 	<script src="https://d3js.org/topojson.v2.min.js"></script>
 	<script src="http://datamaps.github.io/scripts/0.4.4/datamaps.world.min.js"></script>
 	<script src="https://d3js.org/d3-queue.v3.min.js"></script>
-	<script src="d3.legend.js"></script>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<h1>Religious Diversity Index</h1>
+
 <body>
-<div id="container"></div>
-<svg width="900" height="250" id="pie"></svg>
-<div id="info">
-	<p>
-		Text.
-		Source: <a href="http://globalization.kof.ethz.ch/">KOF</a>
-	</p>
-		<p>
-		This map highlights a country and provides the exact  index on mouse-over.
-	</p>
+<div class="top">
+	<div class="jumbotron text-center">
+		<h1>Religious Diversity Index</h1>
+	</div>
+</div>
+<div id="dataVis">
+	<div id="mapContainer"></div>
+	<div id="infoContainer">
+		<table>
+			<tr style="height: 55px">
+			</tr>
+			<tr>
+			  <td id="burstContainer">
+			  </td>
+			</tr>
+			<tr>
+			  <td id="formContainer" class="subBurst">
+				<form>
+				  <input type="radio" name="mode" value="size" id="default" checked> Distribution
+				  <input type="radio" name="mode" value="count"> Unfold
+				</form>
+			  </td>
+			</tr>			
+			<tr>
+			  <td id="countryContainer" class="subBurst">
+			  </td>
+			</tr>
+
+		</table>
+	</div>
+</div>
+<div id="comment">
+  <p class="infoText">
+	The cloropleth map represents the country's <b>religious diversity index (RDI)</b>. 
+	The closer a country comes to having equal shares of different religions, 
+	the higher its score on a 10-point Religious Diversity Index. Clicking on a country
+	will reveal the distribution of the different religions and some of it's denominations.
+	Hovering over the partitions will show more detailed population numbers. </br></br>
+	Data Sources: <a href="http://www.pewforum.org/2014/04/04/religious-diversity-index-scores-by-country/">PewResearch</a>,
+	<a href="http://www.thearda.com/">ARDA</a>.
+  </p>
+</div>
+<div class="bottom">
+Berend Nannes. 10382976. Data processing.
 </div>
 </body>
 <script src="linkedviews.js"></script>
